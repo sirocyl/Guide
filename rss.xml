@@ -4,346 +4,536 @@
 		<title>Plailect Guide Feed</title>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
-			<title>dgTool_o3ds</title>
-			<description>dgTool_o3ds</description>
-			<guid>2afdcf51d3a49c005062967a27e5618dad541759</guid>
+			<title>dgTool_o3ds.zip</title>
+			<description>dgTool_o3ds.zip</description>
+			<guid>2AFDCF51D3A49C005062967A27E5618DAD541759</guid>
 			<link>https://plailect.github.io/Guide/dgTool_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" fileSize="1859"/>
-			<media:hash algo="sha1"><0135aaaa258b57215ef704eab12002950514e24f/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1859" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 03:22:53 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" fileSize="1244018"/>
+			<media:hash algo="sha1"><2AFDCF51D3A49C005062967A27E5618DAD541759/media:hash>
+			<torrent:contentLength>1244018</torrent:contentLength>
+			<torrent:infoHash>2AFDCF51D3A49C005062967A27E5618DAD541759</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A2AFDCF51D3A49C005062967A27E5618DAD541759%26xl%3D1244018%26dn%3DdgTool_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>dgTool_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1244018" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0-4J_ctrtransfer_o3ds</title>
-			<description>2.1.0-4J_ctrtransfer_o3ds</description>
-			<guid>3dbb9c9c85a33c6242f424dcbaebcacdd8a5912b</guid>
+			<title>2.1.0-4J_ctrtransfer_o3ds.zip</title>
+			<description>2.1.0-4J_ctrtransfer_o3ds.zip</description>
+			<guid>3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B</guid>
 			<link>https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" fileSize="30369"/>
-			<media:hash algo="sha1"><9869fc0bf871e698286051075fdf3ffe6bccfd04/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" length="30369" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:01:35 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" fileSize="766749988"/>
+			<media:hash algo="sha1"><3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B/media:hash>
+			<torrent:contentLength>766749988</torrent:contentLength>
+			<torrent:infoHash>3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B%26xl%3D766749988%26dn%3D2.1.0-4J_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0-4J_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" length="766749988" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20J(Full)_n3DS</title>
-			<description>9.2.0-20J(Full)_n3DS</description>
-			<guid>c8630ed31b53637b9023bd4dc1ce38362bb8ecd9</guid>
+			<title>9.2.0-20J(Full)_n3DS.zip</title>
+			<description>9.2.0-20J(Full)_n3DS.zip</description>
+			<guid>C8630ED31B53637B9023BD4DC1CE38362BB8ECD9</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" fileSize="38221"/>
-			<media:hash algo="sha1"><aa655c4c7978ca3963f6f7b12fb8201f490aa926/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" length="38221" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:29:29 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" fileSize="121606805"/>
+			<media:hash algo="sha1"><C8630ED31B53637B9023BD4DC1CE38362BB8ECD9/media:hash>
+			<torrent:contentLength>121606805</torrent:contentLength>
+			<torrent:infoHash>C8630ED31B53637B9023BD4DC1CE38362BB8ECD9</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AC8630ED31B53637B9023BD4DC1CE38362BB8ECD9%26xl%3D121606805%26dn%3D9.2.0-20J%2528Full%2529_n3DS.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20J(Full)_n3DS.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" length="121606805" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20U_ctrtransfer_n3ds</title>
-			<description>9.2.0-20U_ctrtransfer_n3ds</description>
-			<guid>985d47442dc470d1b9f908256bed041c63885f60</guid>
+			<title>9.2.0-20U_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20U_ctrtransfer_n3ds.zip</description>
+			<guid>985D47442DC470D1B9F908256BED041C63885F60</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" fileSize="21632"/>
-			<media:hash algo="sha1"><2de6a3e71df270bf4c8950865c37a24b793418a7/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" length="21632" type="application/x-bittorent" />
+			<pubDate>Wed, 24 Aug 2016 19:52:00 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" fileSize="1075525240"/>
+			<media:hash algo="sha1"><985D47442DC470D1B9F908256BED041C63885F60/media:hash>
+			<torrent:contentLength>1075525240</torrent:contentLength>
+			<torrent:infoHash>985D47442DC470D1B9F908256BED041C63885F60</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A985D47442DC470D1B9F908256BED041C63885F60%26xl%3D1075525240%26dn%3D9.2.0-20U_ctrtransfer_n3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20U_ctrtransfer_n3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" length="1075525240" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>o3DS 10.4</title>
-			<description>o3DS 10.4</description>
-			<guid>60b86dec3757c0707037c7f2e0e7db0892044606</guid>
+			<title>o3DS 10.4.cia</title>
+			<description>o3DS 10.4.cia</description>
+			<guid>60B86DEC3757C0707037C7F2E0E7DB0892044606</guid>
 			<link>https://plailect.github.io/Guide/o3DS 10.4.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/o3DS 10.4.torrent" fileSize="1685"/>
-			<media:hash algo="sha1"><2ae56344e581b786a5bfa533c1235ad56a8981cd/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 10.4.torrent" length="1685" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:15:16 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/o3DS 10.4.torrent" fileSize="976128"/>
+			<media:hash algo="sha1"><60B86DEC3757C0707037C7F2E0E7DB0892044606/media:hash>
+			<torrent:contentLength>976128</torrent:contentLength>
+			<torrent:infoHash>60B86DEC3757C0707037C7F2E0E7DB0892044606</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A60B86DEC3757C0707037C7F2E0E7DB0892044606%26xl%3D976128%26dn%3Do3DS%2B10.4.cia%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>o3DS 10.4.cia</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/o3DS 10.4.torrent" length="976128" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>n3DS 11.0</title>
-			<description>n3DS 11.0</description>
-			<guid>81875690d5bb03e9e7038b4948130be94eeaa681</guid>
+			<title>n3DS 11.0.cia</title>
+			<description>n3DS 11.0.cia</description>
+			<guid>81875690D5BB03E9E7038B4948130BE94EEAA681</guid>
 			<link>https://plailect.github.io/Guide/n3DS 11.0.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/n3DS 11.0.torrent" fileSize="1726"/>
-			<media:hash algo="sha1"><d434d5220859e3cf46d2d182591dc70f97b24263/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 11.0.torrent" length="1726" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:15:12 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/n3DS 11.0.torrent" fileSize="1017088"/>
+			<media:hash algo="sha1"><81875690D5BB03E9E7038B4948130BE94EEAA681/media:hash>
+			<torrent:contentLength>1017088</torrent:contentLength>
+			<torrent:infoHash>81875690D5BB03E9E7038B4948130BE94EEAA681</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A81875690D5BB03E9E7038B4948130BE94EEAA681%26xl%3D1017088%26dn%3Dn3DS%2B11.0.cia%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>n3DS 11.0.cia</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/n3DS 11.0.torrent" length="1017088" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0-4U_ctrtransfer_o3ds</title>
-			<description>2.1.0-4U_ctrtransfer_o3ds</description>
-			<guid>1609ce9ee7b0ed9b6dea0b3e7cca4fc52dad6ff4</guid>
+			<title>2.1.0-4U_ctrtransfer_o3ds.zip</title>
+			<description>2.1.0-4U_ctrtransfer_o3ds.zip</description>
+			<guid>1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4</guid>
 			<link>https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" fileSize="29389"/>
-			<media:hash algo="sha1"><b660ab19b29849dcb83a555662ba8e7b6e3c4c8a/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" length="29389" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:02:37 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" fileSize="741319805"/>
+			<media:hash algo="sha1"><1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4/media:hash>
+			<torrent:contentLength>741319805</torrent:contentLength>
+			<torrent:infoHash>1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4%26xl%3D741319805%26dn%3D2.1.0-4U_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0-4U_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" length="741319805" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>dgTool_n3ds</title>
-			<description>dgTool_n3ds</description>
-			<guid>83def8c4d566811ccd67c0f7d88774d736e0d0ab</guid>
+			<title>dgTool_n3ds.zip</title>
+			<description>dgTool_n3ds.zip</description>
+			<guid>83DEF8C4D566811CCD67C0F7D88774D736E0D0AB</guid>
 			<link>https://plailect.github.io/Guide/dgTool_n3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" fileSize="2140"/>
-			<media:hash algo="sha1"><abe9cf6d85beb590e2b5d2f6c7d5291802ab1da0/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" length="2140" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 03:22:47 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" fileSize="1679621"/>
+			<media:hash algo="sha1"><83DEF8C4D566811CCD67C0F7D88774D736E0D0AB/media:hash>
+			<torrent:contentLength>1679621</torrent:contentLength>
+			<torrent:infoHash>83DEF8C4D566811CCD67C0F7D88774D736E0D0AB</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A83DEF8C4D566811CCD67C0F7D88774D736E0D0AB%26xl%3D1679621%26dn%3DdgTool_n3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>dgTool_n3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" length="1679621" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>o3DS 11.0</title>
-			<description>o3DS 11.0</description>
-			<guid>4466d82b06aff18c9f4a438281f6389d565fdb9a</guid>
+			<title>o3DS 11.0.cia</title>
+			<description>o3DS 11.0.cia</description>
+			<guid>4466D82B06AFF18C9F4A438281F6389D565FDB9A</guid>
 			<link>https://plailect.github.io/Guide/o3DS 11.0.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/o3DS 11.0.torrent" fileSize="1685"/>
-			<media:hash algo="sha1"><cfc501f4224a18ebaec60ca0e4089afb38e9bc54/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 11.0.torrent" length="1685" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:15:20 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/o3DS 11.0.torrent" fileSize="980224"/>
+			<media:hash algo="sha1"><4466D82B06AFF18C9F4A438281F6389D565FDB9A/media:hash>
+			<torrent:contentLength>980224</torrent:contentLength>
+			<torrent:infoHash>4466D82B06AFF18C9F4A438281F6389D565FDB9A</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A4466D82B06AFF18C9F4A438281F6389D565FDB9A%26xl%3D980224%26dn%3Do3DS%2B11.0.cia%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>o3DS 11.0.cia</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/o3DS 11.0.torrent" length="980224" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>data_input_v2</title>
-			<description>data_input_v2</description>
-			<guid>35ed29e5e14908ba4d7f1f806baec98428c85643</guid>
+			<title>data_input_v2.zip</title>
+			<description>data_input_v2.zip</description>
+			<guid>35ED29E5E14908BA4D7F1F806BAEC98428C85643</guid>
 			<link>https://plailect.github.io/Guide/data_input_v2.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/data_input_v2.torrent" fileSize="2131"/>
-			<media:hash algo="sha1"><eee7608c7898ce57b0dda289bd55745b21393586/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/data_input_v2.torrent" length="2131" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:15:03 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/data_input_v2.torrent" fileSize="1681645"/>
+			<media:hash algo="sha1"><35ED29E5E14908BA4D7F1F806BAEC98428C85643/media:hash>
+			<torrent:contentLength>1681645</torrent:contentLength>
+			<torrent:infoHash>35ED29E5E14908BA4D7F1F806BAEC98428C85643</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A35ED29E5E14908BA4D7F1F806BAEC98428C85643%26xl%3D1681645%26dn%3Ddata_input_v2.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>data_input_v2.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/data_input_v2.torrent" length="1681645" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0_qr</title>
-			<description>2.1.0_qr</description>
-			<guid>8d96457dc182160a5f7f5e9b2fb51705f7c8985f</guid>
+			<title>2.1.0_qr.png</title>
+			<description>2.1.0_qr.png</description>
+			<guid>8D96457DC182160A5F7F5E9B2FB51705F7C8985F</guid>
 			<link>https://plailect.github.io/Guide/2.1.0_qr.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0_qr.torrent" fileSize="1112"/>
-			<media:hash algo="sha1"><6f1676e96d2b39d2c880b57f0a07af7a4e4e1eb0/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0_qr.torrent" length="1112" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:00:12 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0_qr.torrent" fileSize="6138"/>
+			<media:hash algo="sha1"><8D96457DC182160A5F7F5E9B2FB51705F7C8985F/media:hash>
+			<torrent:contentLength>6138</torrent:contentLength>
+			<torrent:infoHash>8D96457DC182160A5F7F5E9B2FB51705F7C8985F</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A8D96457DC182160A5F7F5E9B2FB51705F7C8985F%26xl%3D6138%26dn%3D2.1.0_qr.png%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0_qr.png</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0_qr.torrent" length="6138" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0-4E_ctrtransfer_o3ds</title>
-			<description>2.1.0-4E_ctrtransfer_o3ds</description>
-			<guid>89acc9c1b488b8b38251de0ddf07975d6bd354a1</guid>
+			<title>2.1.0-4E_ctrtransfer_o3ds.zip</title>
+			<description>2.1.0-4E_ctrtransfer_o3ds.zip</description>
+			<guid>89ACC9C1B488B8B38251DE0DDF07975D6BD354A1</guid>
 			<link>https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent" fileSize="30489"/>
-			<media:hash algo="sha1"><0362b1f674e48596666e11dd86429e2500e8ab74/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent" length="30489" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 16:58:38 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent" fileSize="769861147"/>
+			<media:hash algo="sha1"><89ACC9C1B488B8B38251DE0DDF07975D6BD354A1/media:hash>
+			<torrent:contentLength>769861147</torrent:contentLength>
+			<torrent:infoHash>89ACC9C1B488B8B38251DE0DDF07975D6BD354A1</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A89ACC9C1B488B8B38251DE0DDF07975D6BD354A1%26xl%3D769861147%26dn%3D2.1.0-4E_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0-4E_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent" length="769861147" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20E_ctrtransfer_n3ds</title>
-			<description>9.2.0-20E_ctrtransfer_n3ds</description>
-			<guid>fed7bfeec0e52b42a77467cfb6ffd3e9dd2d5a70</guid>
+			<title>9.2.0-20E_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20E_ctrtransfer_n3ds.zip</description>
+			<guid>FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" fileSize="21692"/>
-			<media:hash algo="sha1"><0870646a8eefb9c863eeafee8936dba06b52b22c/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" length="21692" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:03:24 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" fileSize="1078614314"/>
+			<media:hash algo="sha1"><FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70/media:hash>
+			<torrent:contentLength>1078614314</torrent:contentLength>
+			<torrent:infoHash>FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AFED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70%26xl%3D1078614314%26dn%3D9.2.0-20E_ctrtransfer_n3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20E_ctrtransfer_n3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" length="1078614314" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0J(Full)</title>
-			<description>2.1.0J(Full)</description>
-			<guid>3eaa80ea853ff800bc865fcd0ee2ff262a0a05f3</guid>
+			<title>2.1.0J(Full).zip</title>
+			<description>2.1.0J(Full).zip</description>
+			<guid>3EAA80EA853FF800BC865FCD0EE2FF262A0A05F3</guid>
 			<link>https://plailect.github.io/Guide/2.1.0J(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0J(Full).torrent" fileSize="35653"/>
-			<media:hash algo="sha1"><de9abc48bd26d2d8a730e9dbc735446a72c6319f/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0J(Full).torrent" length="35653" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:28:45 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0J(Full).torrent" fileSize="113186048"/>
+			<media:hash algo="sha1"><3EAA80EA853FF800BC865FCD0EE2FF262A0A05F3/media:hash>
+			<torrent:contentLength>113186048</torrent:contentLength>
+			<torrent:infoHash>3EAA80EA853FF800BC865FCD0EE2FF262A0A05F3</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A3EAA80EA853FF800BC865FCD0EE2FF262A0A05F3%26xl%3D113186048%26dn%3D2.1.0J%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0J(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0J(Full).torrent" length="113186048" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0U(Full)</title>
-			<description>2.1.0U(Full)</description>
-			<guid>b76b9faf3684cdaee014f9e6941228e906d688eb</guid>
+			<title>2.1.0U(Full).zip</title>
+			<description>2.1.0U(Full).zip</description>
+			<guid>B76B9FAF3684CDAEE014F9E6941228E906D688EB</guid>
 			<link>https://plailect.github.io/Guide/2.1.0U(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0U(Full).torrent" fileSize="39133"/>
-			<media:hash algo="sha1"><de1809a4825a612a71a1a65f6011ee5caf233d21/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0U(Full).torrent" length="39133" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:28:50 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0U(Full).torrent" fileSize="124608587"/>
+			<media:hash algo="sha1"><B76B9FAF3684CDAEE014F9E6941228E906D688EB/media:hash>
+			<torrent:contentLength>124608587</torrent:contentLength>
+			<torrent:infoHash>B76B9FAF3684CDAEE014F9E6941228E906D688EB</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AB76B9FAF3684CDAEE014F9E6941228E906D688EB%26xl%3D124608587%26dn%3D2.1.0U%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0U(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0U(Full).torrent" length="124608587" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20J_ctrtransfer_o3ds</title>
-			<description>9.2.0-20J_ctrtransfer_o3ds</description>
-			<guid>24ad2b85e67013ef1f91178dca7ad2e40663b9b2</guid>
+			<title>9.2.0-20J_ctrtransfer_o3ds.zip</title>
+			<description>9.2.0-20J_ctrtransfer_o3ds.zip</description>
+			<guid>24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" fileSize="30670"/>
-			<media:hash algo="sha1"><d9df43b48ef56e44b0c40fcb3cbee3005db44a91/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" length="30670" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:05:16 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" fileSize="774577032"/>
+			<media:hash algo="sha1"><24AD2B85E67013EF1F91178DCA7AD2E40663B9B2/media:hash>
+			<torrent:contentLength>774577032</torrent:contentLength>
+			<torrent:infoHash>24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A24AD2B85E67013EF1F91178DCA7AD2E40663B9B2%26xl%3D774577032%26dn%3D9.2.0-20J_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20J_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" length="774577032" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20U(Full)</title>
-			<description>9.2.0-20U(Full)</description>
-			<guid>940d6479a3972a99daeb85c499f0d6e4e24a2c8b</guid>
+			<title>9.2.0-20U(Full).zip</title>
+			<description>9.2.0-20U(Full).zip</description>
+			<guid>940D6479A3972A99DAEB85C499F0D6E4E24A2C8B</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20U(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" fileSize="28197"/>
-			<media:hash algo="sha1"><9c86a16de450e68a8426055e75ba0604805011c5/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" length="28197" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:14:22 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" fileSize="177532065"/>
+			<media:hash algo="sha1"><940D6479A3972A99DAEB85C499F0D6E4E24A2C8B/media:hash>
+			<torrent:contentLength>177532065</torrent:contentLength>
+			<torrent:infoHash>940D6479A3972A99DAEB85C499F0D6E4E24A2C8B</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A940D6479A3972A99DAEB85C499F0D6E4E24A2C8B%26xl%3D177532065%26dn%3D9.2.0-20U%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20U(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" length="177532065" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>exidia_save</title>
-			<description>exidia_save</description>
-			<guid>5ab3518f63994d275c6f7352c396c618541bb4d0</guid>
+			<title>exidia_save.zip</title>
+			<description>exidia_save.zip</description>
+			<guid>5AB3518F63994D275C6F7352C396C618541BB4D0</guid>
 			<link>https://plailect.github.io/Guide/exidia_save.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/exidia_save.torrent" fileSize="1136"/>
-			<media:hash algo="sha1"><56d86971edc3599730649038ae0d4215221059a0/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/exidia_save.torrent" length="1136" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 03:37:27 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/exidia_save.torrent" fileSize="34342"/>
+			<media:hash algo="sha1"><5AB3518F63994D275C6F7352C396C618541BB4D0/media:hash>
+			<torrent:contentLength>34342</torrent:contentLength>
+			<torrent:infoHash>5AB3518F63994D275C6F7352C396C618541BB4D0</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A5AB3518F63994D275C6F7352C396C618541BB4D0%26xl%3D34342%26dn%3Dexidia_save.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>exidia_save.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/exidia_save.torrent" length="34342" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>update</title>
-			<description>update</description>
-			<guid>cd7e59ea9744115913b561dbde15f8d68e713507</guid>
+			<title>update.php</title>
+			<description>update.php</description>
+			<guid>CD7E59EA9744115913B561DBDE15F8D68E713507</guid>
 			<link>https://plailect.github.io/Guide/update.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/update.torrent" fileSize="1110"/>
-			<media:hash algo="sha1"><ddd878eb0b38e03ac0086d19458eb73f72461613/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/update.torrent" length="1110" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:54:21 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/update.torrent" fileSize="5171"/>
+			<media:hash algo="sha1"><CD7E59EA9744115913B561DBDE15F8D68E713507/media:hash>
+			<torrent:contentLength>5171</torrent:contentLength>
+			<torrent:infoHash>CD7E59EA9744115913B561DBDE15F8D68E713507</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253ACD7E59EA9744115913B561DBDE15F8D68E713507%26xl%3D5171%26dn%3Dupdate.php%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>update.php</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/update.torrent" length="5171" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>fieldrunners_eur_save</title>
-			<description>fieldrunners_eur_save</description>
-			<guid>a342e4a43ca6c5a4ec03f5891fd5b954bf4ab34e</guid>
+			<title>fieldrunners_eur_save.zip</title>
+			<description>fieldrunners_eur_save.zip</description>
+			<guid>A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E</guid>
 			<link>https://plailect.github.io/Guide/fieldrunners_eur_save.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" fileSize="1126"/>
-			<media:hash algo="sha1"><5adc5340077e73245f2fd9e99e989aa3d2050833/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" length="1126" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 03:37:30 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" fileSize="31288"/>
+			<media:hash algo="sha1"><A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E/media:hash>
+			<torrent:contentLength>31288</torrent:contentLength>
+			<torrent:infoHash>A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AA342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E%26xl%3D31288%26dn%3Dfieldrunners_eur_save.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>fieldrunners_eur_save.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" length="31288" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.2.0_qr</title>
-			<description>2.2.0_qr</description>
-			<guid>183b327d0fc74de8545115e20cb90bde121e5fdf</guid>
+			<title>2.2.0_qr.png</title>
+			<description>2.2.0_qr.png</description>
+			<guid>183B327D0FC74DE8545115E20CB90BDE121E5FDF</guid>
 			<link>https://plailect.github.io/Guide/2.2.0_qr.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.2.0_qr.torrent" fileSize="1113"/>
-			<media:hash algo="sha1"><6885d24db171a58147116969584893a4afbb0438/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.2.0_qr.torrent" length="1113" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:00:15 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.2.0_qr.torrent" fileSize="26938"/>
+			<media:hash algo="sha1"><183B327D0FC74DE8545115E20CB90BDE121E5FDF/media:hash>
+			<torrent:contentLength>26938</torrent:contentLength>
+			<torrent:infoHash>183B327D0FC74DE8545115E20CB90BDE121E5FDF</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A183B327D0FC74DE8545115E20CB90BDE121E5FDF%26xl%3D26938%26dn%3D2.2.0_qr.png%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.2.0_qr.png</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.2.0_qr.torrent" length="26938" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>1.1.0_qr</title>
-			<description>1.1.0_qr</description>
-			<guid>7d2707ae938991140e94502a4c9880579e7faa7c</guid>
+			<title>1.1.0_qr.png</title>
+			<description>1.1.0_qr.png</description>
+			<guid>7D2707AE938991140E94502A4C9880579E7FAA7C</guid>
 			<link>https://plailect.github.io/Guide/1.1.0_qr.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/1.1.0_qr.torrent" fileSize="1112"/>
-			<media:hash algo="sha1"><211ad95b63254b23e326c77fea194f349e810dc2/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/1.1.0_qr.torrent" length="1112" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:00:09 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/1.1.0_qr.torrent" fileSize="5812"/>
+			<media:hash algo="sha1"><7D2707AE938991140E94502A4C9880579E7FAA7C/media:hash>
+			<torrent:contentLength>5812</torrent:contentLength>
+			<torrent:infoHash>7D2707AE938991140E94502A4C9880579E7FAA7C</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A7D2707AE938991140E94502A4C9880579E7FAA7C%26xl%3D5812%26dn%3D1.1.0_qr.png%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>1.1.0_qr.png</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/1.1.0_qr.torrent" length="5812" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>3ds-private-update-server</title>
-			<description>3ds-private-update-server</description>
-			<guid>8623e580752f22940d96630ef723ce30a707b22e</guid>
+			<title>3ds-private-update-server.zip</title>
+			<description>3ds-private-update-server.zip</description>
+			<guid>8623E580752F22940D96630EF723CE30A707B22E</guid>
 			<link>https://plailect.github.io/Guide/3ds-private-update-server.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/3ds-private-update-server.torrent" fileSize="1130"/>
-			<media:hash algo="sha1"><45facb7d44132d7ed68ff5867d297f7ca3c12a36/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/3ds-private-update-server.torrent" length="1130" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:31:33 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/3ds-private-update-server.torrent" fileSize="16831"/>
+			<media:hash algo="sha1"><8623E580752F22940D96630EF723CE30A707B22E/media:hash>
+			<torrent:contentLength>16831</torrent:contentLength>
+			<torrent:infoHash>8623E580752F22940D96630EF723CE30A707B22E</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A8623E580752F22940D96630EF723CE30A707B22E%26xl%3D16831%26dn%3D3ds-private-update-server.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>3ds-private-update-server.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/3ds-private-update-server.torrent" length="16831" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20J(Full)</title>
-			<description>9.2.0-20J(Full)</description>
-			<guid>bb27a53a524276b6527d3b139395b2afc7affe1a</guid>
+			<title>9.2.0-20J(Full).zip</title>
+			<description>9.2.0-20J(Full).zip</description>
+			<guid>BB27A53A524276B6527D3B139395B2AFC7AFFE1A</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20J(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" fileSize="25737"/>
-			<media:hash algo="sha1"><b16e0ceac5e544c4f6e90eaa71ec3971d7921f34/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" length="25737" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:29:20 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" fileSize="161440346"/>
+			<media:hash algo="sha1"><BB27A53A524276B6527D3B139395B2AFC7AFFE1A/media:hash>
+			<torrent:contentLength>161440346</torrent:contentLength>
+			<torrent:infoHash>BB27A53A524276B6527D3B139395B2AFC7AFFE1A</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253ABB27A53A524276B6527D3B139395B2AFC7AFFE1A%26xl%3D161440346%26dn%3D9.2.0-20J%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20J(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" length="161440346" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>1.0.0_qr</title>
-			<description>1.0.0_qr</description>
-			<guid>9eeabfd544483545a3b29bf8ed4dbe1544f6f6d4</guid>
+			<title>1.0.0_qr.png</title>
+			<description>1.0.0_qr.png</description>
+			<guid>9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4</guid>
 			<link>https://plailect.github.io/Guide/1.0.0_qr.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/1.0.0_qr.torrent" fileSize="1112"/>
-			<media:hash algo="sha1"><9e02849fcad9af96f8d0ca1464aa5948cb500891/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/1.0.0_qr.torrent" length="1112" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:00:06 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/1.0.0_qr.torrent" fileSize="6134"/>
+			<media:hash algo="sha1"><9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4/media:hash>
+			<torrent:contentLength>6134</torrent:contentLength>
+			<torrent:infoHash>9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4%26xl%3D6134%26dn%3D1.0.0_qr.png%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>1.0.0_qr.png</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/1.0.0_qr.torrent" length="6134" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20U(Full)_n3DS</title>
-			<description>9.2.0-20U(Full)_n3DS</description>
-			<guid>1e670b71b7f26f2765bbe55d0f6cb8c0459d2e8c</guid>
+			<title>9.2.0-20U(Full)_n3DS.zip</title>
+			<description>9.2.0-20U(Full)_n3DS.zip</description>
+			<guid>1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" fileSize="41501"/>
-			<media:hash algo="sha1"><3b9dd680a3a9d324907543d7639cae998e299c16/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" length="41501" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:14:27 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" fileSize="132327215"/>
+			<media:hash algo="sha1"><1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C/media:hash>
+			<torrent:contentLength>132327215</torrent:contentLength>
+			<torrent:infoHash>1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C%26xl%3D132327215%26dn%3D9.2.0-20U%2528Full%2529_n3DS.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20U(Full)_n3DS.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" length="132327215" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20E(Full)</title>
-			<description>9.2.0-20E(Full)</description>
-			<guid>844006eb64474c115bd5b847f6c59d333be3397a</guid>
+			<title>9.2.0-20E(Full).zip</title>
+			<description>9.2.0-20E(Full).zip</description>
+			<guid>844006EB64474C115BD5B847F6C59D333BE3397A</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20E(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" fileSize="31137"/>
-			<media:hash algo="sha1"><ec4039c83b822825b0d53f8141160d7eeb44d937/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" length="31137" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:28:56 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" fileSize="196860903"/>
+			<media:hash algo="sha1"><844006EB64474C115BD5B847F6C59D333BE3397A/media:hash>
+			<torrent:contentLength>196860903</torrent:contentLength>
+			<torrent:infoHash>844006EB64474C115BD5B847F6C59D333BE3397A</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A844006EB64474C115BD5B847F6C59D333BE3397A%26xl%3D196860903%26dn%3D9.2.0-20E%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20E(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" length="196860903" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>grtpwn_eur_save</title>
-			<description>grtpwn_eur_save</description>
-			<guid>aa5bf12862437ba369a54f15fae27cbb6bcd0eb0</guid>
+			<title>grtpwn_eur_save.zip</title>
+			<description>grtpwn_eur_save.zip</description>
+			<guid>AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0</guid>
 			<link>https://plailect.github.io/Guide/grtpwn_eur_save.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" fileSize="1160"/>
-			<media:hash algo="sha1"><445886635b50bf567d05f19c3dd597efacd4eb44/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" length="1160" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 15:04:08 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" fileSize="69402"/>
+			<media:hash algo="sha1"><AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0/media:hash>
+			<torrent:contentLength>69402</torrent:contentLength>
+			<torrent:infoHash>AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AAA5BF12862437BA369A54F15FAE27CBB6BCD0EB0%26xl%3D69402%26dn%3Dgrtpwn_eur_save.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>grtpwn_eur_save.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" length="69402" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>NTR Debugger</title>
-			<description>NTR Debugger</description>
-			<guid>66274cee542bef7745792714673bf2be4d606496</guid>
+			<title>NTR Debugger.zip</title>
+			<description>NTR Debugger.zip</description>
+			<guid>66274CEE542BEF7745792714673BF2BE4D606496</guid>
 			<link>https://plailect.github.io/Guide/NTR Debugger.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/NTR Debugger.torrent" fileSize="13343"/>
-			<media:hash algo="sha1"><a7053268519c653e8d7a04cc4ae8f6179f2e04cb/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/NTR Debugger.torrent" length="13343" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 04:31:19 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/NTR Debugger.torrent" fileSize="20042111"/>
+			<media:hash algo="sha1"><66274CEE542BEF7745792714673BF2BE4D606496/media:hash>
+			<torrent:contentLength>20042111</torrent:contentLength>
+			<torrent:infoHash>66274CEE542BEF7745792714673BF2BE4D606496</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A66274CEE542BEF7745792714673BF2BE4D606496%26xl%3D20042111%26dn%3DNTR%2BDebugger.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>NTR Debugger.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/NTR Debugger.torrent" length="20042111" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20E_ctrtransfer_o3ds</title>
-			<description>9.2.0-20E_ctrtransfer_o3ds</description>
-			<guid>8d6142313971b08f92257e7fb1c1d5689e34ed78</guid>
+			<title>9.2.0-20E_ctrtransfer_o3ds.zip</title>
+			<description>9.2.0-20E_ctrtransfer_o3ds.zip</description>
+			<guid>8D6142313971B08F92257E7FB1C1D5689E34ED78</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" fileSize="30030"/>
-			<media:hash algo="sha1"><5cbd16d74ac538a57a2774281a4da692a1f322e5/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" length="30030" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:04:23 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" fileSize="757852955"/>
+			<media:hash algo="sha1"><8D6142313971B08F92257E7FB1C1D5689E34ED78/media:hash>
+			<torrent:contentLength>757852955</torrent:contentLength>
+			<torrent:infoHash>8D6142313971B08F92257E7FB1C1D5689E34ED78</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A8D6142313971B08F92257E7FB1C1D5689E34ED78%26xl%3D757852955%26dn%3D9.2.0-20E_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20E_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" length="757852955" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>n3DS 10.4</title>
-			<description>n3DS 10.4</description>
-			<guid>0cd996818e3edb0dd2cad1e5b44f80c1b5a876f4</guid>
+			<title>n3DS 10.4.cia</title>
+			<description>n3DS 10.4.cia</description>
+			<guid>0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4</guid>
 			<link>https://plailect.github.io/Guide/n3DS 10.4.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/n3DS 10.4.torrent" fileSize="1706"/>
-			<media:hash algo="sha1"><8f84ecfd9d32ce07ad0b8f4e93fc3a8a3888d065/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 10.4.torrent" length="1706" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 00:15:07 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/n3DS 10.4.torrent" fileSize="1008896"/>
+			<media:hash algo="sha1"><0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4/media:hash>
+			<torrent:contentLength>1008896</torrent:contentLength>
+			<torrent:infoHash>0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4%26xl%3D1008896%26dn%3Dn3DS%2B10.4.cia%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>n3DS 10.4.cia</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/n3DS 10.4.torrent" length="1008896" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20J_ctrtransfer_n3ds</title>
-			<description>9.2.0-20J_ctrtransfer_n3ds</description>
-			<guid>b22d67fd02b3b0e30ac991e451db0f2d32e7beca</guid>
+			<title>9.2.0-20J_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20J_ctrtransfer_n3ds.zip</description>
+			<guid>B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" fileSize="41311"/>
-			<media:hash algo="sha1"><2703db3e86bc73ece7ec83fb76d93d1a1acadc85/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" length="41311" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:04:42 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" fileSize="1053583464"/>
+			<media:hash algo="sha1"><B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA/media:hash>
+			<torrent:contentLength>1053583464</torrent:contentLength>
+			<torrent:infoHash>B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AB22D67FD02B3B0E30AC991E451DB0F2D32E7BECA%26xl%3D1053583464%26dn%3D9.2.0-20J_ctrtransfer_n3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20J_ctrtransfer_n3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" length="1053583464" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0E(Full)</title>
-			<description>2.1.0E(Full)</description>
-			<guid>ac8349b75d3af54ba92d561662d80a96cac4aa7f</guid>
+			<title>2.1.0E(Full).zip</title>
+			<description>2.1.0E(Full).zip</description>
+			<guid>AC8349B75D3AF54BA92D561662D80A96CAC4AA7F</guid>
 			<link>https://plailect.github.io/Guide/2.1.0E(Full).torrent</link>
-			<media:content url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" fileSize="47193"/>
-			<media:hash algo="sha1"><884b0f5ad2445b89c8abb8544ec80454ca7bbfbe/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" length="47193" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:28:35 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" fileSize="150999703"/>
+			<media:hash algo="sha1"><AC8349B75D3AF54BA92D561662D80A96CAC4AA7F/media:hash>
+			<torrent:contentLength>150999703</torrent:contentLength>
+			<torrent:infoHash>AC8349B75D3AF54BA92D561662D80A96CAC4AA7F</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AAC8349B75D3AF54BA92D561662D80A96CAC4AA7F%26xl%3D150999703%26dn%3D2.1.0E%2528Full%2529.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>2.1.0E(Full).zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" length="150999703" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>fieldrunners_usa_save</title>
-			<description>fieldrunners_usa_save</description>
-			<guid>34d12dbde622aff3c43736f4668162c3bb2d05a9</guid>
+			<title>fieldrunners_usa_save.zip</title>
+			<description>fieldrunners_usa_save.zip</description>
+			<guid>34D12DBDE622AFF3C43736F4668162C3BB2D05A9</guid>
 			<link>https://plailect.github.io/Guide/fieldrunners_usa_save.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" fileSize="1126"/>
-			<media:hash algo="sha1"><13c54045955dfe77787a1b910d1682d43f5f67ce/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" length="1126" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 03:37:33 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" fileSize="31288"/>
+			<media:hash algo="sha1"><34D12DBDE622AFF3C43736F4668162C3BB2D05A9/media:hash>
+			<torrent:contentLength>31288</torrent:contentLength>
+			<torrent:infoHash>34D12DBDE622AFF3C43736F4668162C3BB2D05A9</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A34D12DBDE622AFF3C43736F4668162C3BB2D05A9%26xl%3D31288%26dn%3Dfieldrunners_usa_save.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>fieldrunners_usa_save.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" length="31288" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>autofirm_Reboot_11.0</title>
-			<description>autofirm_Reboot_11.0</description>
-			<guid>233fd2c61bbd6f90f6f4761a7fb822f02f442e5d</guid>
+			<title>autofirm_Reboot_11.0.zip</title>
+			<description>autofirm_Reboot_11.0.zip</description>
+			<guid>233FD2C61BBD6F90F6F4761A7FB822F02F442E5D</guid>
 			<link>https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" fileSize="2989"/>
-			<media:hash algo="sha1"><87e3ebb99cd92faf017a26546a5be45e74c4ee7b/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" length="2989" type="application/x-bittorent" />
+			<pubDate>Tue, 26 Jul 2016 05:01:30 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" fileSize="3076440"/>
+			<media:hash algo="sha1"><233FD2C61BBD6F90F6F4761A7FB822F02F442E5D/media:hash>
+			<torrent:contentLength>3076440</torrent:contentLength>
+			<torrent:infoHash>233FD2C61BBD6F90F6F4761A7FB822F02F442E5D</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A233FD2C61BBD6F90F6F4761A7FB822F02F442E5D%26xl%3D3076440%26dn%3Dautofirm_Reboot_11.0.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>autofirm_Reboot_11.0.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" length="3076440" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>aeskeydb</title>
-			<description>aeskeydb</description>
-			<guid>ec48c225c2bfda844274a97d3eeed3f612b4952a</guid>
+			<title>aeskeydb.bin</title>
+			<description>aeskeydb.bin</description>
+			<guid>EC48C225C2BFDA844274A97D3EEED3F612B4952A</guid>
 			<link>https://plailect.github.io/Guide/aeskeydb.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/aeskeydb.torrent" fileSize="1110"/>
-			<media:hash algo="sha1"><46cc28d8816763b33454713db16496a7d53c4fef/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="1110" type="application/x-bittorent" />
+			<pubDate>Fri, 12 Aug 2016 04:10:01 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/aeskeydb.torrent" fileSize="160"/>
+			<media:hash algo="sha1"><EC48C225C2BFDA844274A97D3EEED3F612B4952A/media:hash>
+			<torrent:contentLength>160</torrent:contentLength>
+			<torrent:infoHash>EC48C225C2BFDA844274A97D3EEED3F612B4952A</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253AEC48C225C2BFDA844274A97D3EEED3F612B4952A%26xl%3D160%26dn%3Daeskeydb.bin%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.internetwarriors.net%3A1337/announce%26tr%3Dudp%3A//91.218.230.81%3A6969/announce%26tr%3Dhttp%3A//tracker.internetwarriors.net%3A1337/announce]]></torrent:magnetURI>
+			<torrent:fileName>aeskeydb.bin</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="160" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20E(Full)_n3DS</title>
-			<description>9.2.0-20E(Full)_n3DS</description>
-			<guid>4e22cf8bc71c99a70bb846c7cf416d4caafbe58e</guid>
+			<title>9.2.0-20E(Full)_n3DS.zip</title>
+			<description>9.2.0-20E(Full)_n3DS.zip</description>
+			<guid>4E22CF8BC71C99A70BB846C7CF416D4CAAFBE58E</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent" fileSize="46481"/>
-			<media:hash algo="sha1"><c3c552d853e2cb312a10c5c20a46695f0cba4c95/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent" length="46481" type="application/x-bittorent" />
+			<pubDate>Mon, 25 Jul 2016 20:29:04 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent" fileSize="148685306"/>
+			<media:hash algo="sha1"><4E22CF8BC71C99A70BB846C7CF416D4CAAFBE58E/media:hash>
+			<torrent:contentLength>148685306</torrent:contentLength>
+			<torrent:infoHash>4E22CF8BC71C99A70BB846C7CF416D4CAAFBE58E</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A4E22CF8BC71C99A70BB846C7CF416D4CAAFBE58E%26xl%3D148685306%26dn%3D9.2.0-20E%2528Full%2529_n3DS.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dudp%3A//tracker.piratepublic.com%3A1337/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dudp%3A//tracker.kicks-ass.net%3A80/announce%26tr%3Dhttp%3A//tracker.kicks-ass.net/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20E(Full)_n3DS.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent" length="148685306" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20U_ctrtransfer_o3ds</title>
-			<description>9.2.0-20U_ctrtransfer_o3ds</description>
-			<guid>1dc79a2a0babb45497961888f369423a93135e2b</guid>
+			<title>9.2.0-20U_ctrtransfer_o3ds.zip</title>
+			<description>9.2.0-20U_ctrtransfer_o3ds.zip</description>
+			<guid>1DC79A2A0BABB45497961888F369423A93135E2B</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent</link>
-			<media:content url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent" fileSize="30590"/>
-			<media:hash algo="sha1"><351a122bcedc443fd7fc42b7be31de0ccddfe727/media:hash>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent" length="30590" type="application/x-bittorent" />
+			<pubDate>Sat, 20 Aug 2016 17:06:17 +0000</pubDate>
+			<media:content url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent" fileSize="772676297"/>
+			<media:hash algo="sha1"><1DC79A2A0BABB45497961888F369423A93135E2B/media:hash>
+			<torrent:contentLength>772676297</torrent:contentLength>
+			<torrent:infoHash>1DC79A2A0BABB45497961888F369423A93135E2B</torrent:infoHash>
+			<torrent:magnetURI><![CDATA[magnet%3A%3Fxt%3Durn%253Abtih%253A1DC79A2A0BABB45497961888F369423A93135E2B%26xl%3D772676297%26dn%3D9.2.0-20U_ctrtransfer_o3ds.zip%26tr%3Dudp%3A//tracker.coppersurfer.tk%3A6969/announce%26tr%3Dudp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dhttp%3A//tracker.opentrackr.org%3A1337/announce%26tr%3Dudp%3A//zer0day.ch%3A1337/announce%26tr%3Dudp%3A//tracker.leechers-paradise.org%3A6969/announce%26tr%3Dhttp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//explodie.org%3A6969/announce%26tr%3Dudp%3A//9.rarbg.com%3A2710/announce%26tr%3Dudp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dhttp%3A//p4p.arenabg.com%3A1337/announce%26tr%3Dudp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker.aletorrenty.pl%3A2710/announce%26tr%3Dhttp%3A//tracker1.wasabii.com.tw%3A6969/announce%26tr%3Dhttp%3A//tracker.baravik.org%3A6970/announce%26tr%3Dhttp%3A//tracker.tfile.me/announce%26tr%3Dudp%3A//torrent.gresille.org%3A80/announce%26tr%3Dhttp%3A//torrent.gresille.org/announce%26tr%3Dudp%3A//tracker.yoshi210.com%3A6969/announce%26tr%3Dudp%3A//tracker.tiny-vps.com%3A6969/announce%26tr%3Dudp%3A//tracker.filetracker.pl%3A8089/announce]]></torrent:magnetURI>
+			<torrent:fileName>9.2.0-20U_ctrtransfer_o3ds.zip</torrent:fileName><torrent:fileName>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent" length="772676297" type="application/x-bittorent" />
 		</item>
 	</channel>
 </rss>

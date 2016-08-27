@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-'''Python Script for generating a rss.xml for the A9LH Guide Plailect wrote. Requires bencodepy from pypy.'''
+"""Python Script for generating a rss.xml for the A9LH Guide Plailect wrote. Requires bencodepy from pypy."""
 
 import os
 import hashlib
+import urllib.parse
+import datetime
 
 import bencodepy
 
@@ -19,28 +21,44 @@ with open(rss, "w") as xml:
 
     for filename in os.listdir(dir):
         if filename.endswith(".torrent"):
-            path = os.path.join(dir, filename)
-            sfile = filename.rsplit(".", 1)[0]
-            sha1 = hashlib.sha1()
+            filepath = os.path.join(dir, filename)
 
-            with open(path, "rb") as a:
-                file = a.read()
-                length = len(file)
-                torstruct = bencodepy.decode(file)
-                if b'info' in torstruct:
-                    infohash = hashlib.sha1(bencodepy.encode(torstruct[b'info'])).hexdigest()
+            with open(filepath, "rb") as a:
+                raw = a.read()
+                tor = bencodepy.decode(raw)
+                magnet = ""
+                if b"info" in tor:
+                    infohash = hashlib.sha1(bencodepy.encode(tor[b"info"])).hexdigest().upper()
+                    magp = {"xt": "urn:btih:{0}".format(infohash), "dn": tor[b"info"][b"name"], "xl": tor[b"info"][b"length"]}
+                    magstr = urllib.parse.urlencode(magp)
+                    magnet = "magnet:?{0}".format(magstr)
+                    for anncl in tor[b"announce-list"]:
+                        if isinstance(anncl, list):
+                            for annc in anncl:
+                                magnet = "{0}{1}".format(magnet, "&tr={0}".format(annc.decode("utf-8")))
+                        else:
+                            magnet = "{0}{1}".format(magnet, "&tr={0}".format(anncl.decode("utf-8")))
+                    length = tor[b"info"][b"length"]
+                    name = tor[b"info"][b"name"].decode("utf-8")
+                    ts = tor[b"creation date"]
                 else:
-                    infohash = "{0}/{1}.torrent".format(gio, sfile)
-                sha1.update(file)
+                    infohash = "{0}/{1}".format(gio, filename)
 
-            uri = "{0}/{1}.torrent".format(gio, sfile)
+            uri = "{0}/{1}".format(gio, filename)
+            magnet = urllib.parse.quote(magnet)
+            pubdate = datetime.datetime.utcfromtimestamp(int(ts))
             xml.write("\t\t<item>\n")
-            xml.write("\t\t\t<title>{0}</title>\n".format(sfile))
-            xml.write("\t\t\t<description>{0}</description>\n".format(sfile))
+            xml.write("\t\t\t<title>{0}</title>\n".format(name))
+            xml.write("\t\t\t<description>{0}</description>\n".format(name))
             xml.write("\t\t\t<guid>{0}</guid>\n".format(infohash))
             xml.write("\t\t\t<link>{0}</link>\n".format(uri))
+            xml.write("\t\t\t<pubDate>{0}</pubDate>\n".format(pubdate.strftime("%a, %d %b %Y %X +0000")))
             xml.write("\t\t\t<media:content url=\"{0}\" fileSize=\"{1}\"/>\n".format(uri, length))
-            xml.write("\t\t\t<media:hash algo=\"sha1\"><{0}/media:hash>\n".format(sha1.hexdigest()))
+            xml.write("\t\t\t<media:hash algo=\"sha1\"><{0}/media:hash>\n".format(infohash))
+            xml.write("\t\t\t<torrent:contentLength>{0}</torrent:contentLength>\n".format(length))
+            xml.write("\t\t\t<torrent:infoHash>{0}</torrent:infoHash>\n".format(infohash))
+            xml.write("\t\t\t<torrent:magnetURI><![CDATA[{0}]]></torrent:magnetURI>\n".format(magnet))
+            xml.write("\t\t\t<torrent:fileName>{0}</torrent:fileName><torrent:fileName>\n".format(name))
             xml.write("\t\t\t<enclosure url=\"{0}\" length=\"{1}\" type=\"application/x-bittorent\" />\n".format(uri, length))
             xml.write("\t\t</item>\n")
     xml.write("\t</channel>\n")
