@@ -2,103 +2,23 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sat, 27 Aug 2016 23:08:53 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 31 Aug 2016 19:20:08 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
-			<title>dgTool_o3ds.zip</title>
-			<description>dgTool_o3ds.zip</description>
-			<guid>2AFDCF51D3A49C005062967A27E5618DAD541759</guid>
-			<link>https://plailect.github.io/Guide/dgTool_o3ds.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:22:53 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1244018" type="application/x-bittorent" />
+			<title>1.0.0_qr.png</title>
+			<description>1.0.0_qr.png</description>
+			<guid>9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4</guid>
+			<link>https://plailect.github.io/Guide/1.0.0_qr.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 04:00:06 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/1.0.0_qr.torrent" length="6134" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>2.1.0-4J_ctrtransfer_o3ds.zip</title>
-			<description>2.1.0-4J_ctrtransfer_o3ds.zip</description>
-			<guid>3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B</guid>
-			<link>https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:01:35 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" length="766749988" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20J(Full)_n3DS.zip</title>
-			<description>9.2.0-20J(Full)_n3DS.zip</description>
-			<guid>C8630ED31B53637B9023BD4DC1CE38362BB8ECD9</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent</link>
-			<pubDate>Mon, 25 Jul 2016 20:29:29 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" length="121606805" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20U_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20U_ctrtransfer_n3ds.zip</description>
-			<guid>985D47442DC470D1B9F908256BED041C63885F60</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent</link>
-			<pubDate>Wed, 24 Aug 2016 19:52:00 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" length="1075525240" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>o3DS 10.4.cia</title>
-			<description>o3DS 10.4.cia</description>
-			<guid>60B86DEC3757C0707037C7F2E0E7DB0892044606</guid>
-			<link>https://plailect.github.io/Guide/o3DS 10.4.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:16 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 10.4.torrent" length="976128" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>n3DS 11.0.cia</title>
-			<description>n3DS 11.0.cia</description>
-			<guid>81875690D5BB03E9E7038B4948130BE94EEAA681</guid>
-			<link>https://plailect.github.io/Guide/n3DS 11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:12 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 11.0.torrent" length="1017088" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.0.0-20K(Full).zip</title>
-			<description>9.0.0-20K(Full).zip</description>
-			<guid>2695D01CDFECB74A59E25B98F76AB9285A2DAE11</guid>
-			<link>https://plailect.github.io/Guide/9.0.0-20K(Full).torrent</link>
-			<pubDate>Sat, 27 Aug 2016 20:16:29 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.0.0-20K(Full).torrent" length="123861830" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>2.1.0-4U_ctrtransfer_o3ds.zip</title>
-			<description>2.1.0-4U_ctrtransfer_o3ds.zip</description>
-			<guid>1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4</guid>
-			<link>https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:02:37 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" length="741319805" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>dgTool_n3ds.zip</title>
-			<description>dgTool_n3ds.zip</description>
-			<guid>83DEF8C4D566811CCD67C0F7D88774D736E0D0AB</guid>
-			<link>https://plailect.github.io/Guide/dgTool_n3ds.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:22:47 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" length="1679621" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>o3DS 11.0.cia</title>
-			<description>o3DS 11.0.cia</description>
-			<guid>4466D82B06AFF18C9F4A438281F6389D565FDB9A</guid>
-			<link>https://plailect.github.io/Guide/o3DS 11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:20 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 11.0.torrent" length="980224" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>data_input_v2.zip</title>
-			<description>data_input_v2.zip</description>
-			<guid>35ED29E5E14908BA4D7F1F806BAEC98428C85643</guid>
-			<link>https://plailect.github.io/Guide/data_input_v2.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:03 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/data_input_v2.torrent" length="1681645" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>2.1.0_qr.png</title>
-			<description>2.1.0_qr.png</description>
-			<guid>8D96457DC182160A5F7F5E9B2FB51705F7C8985F</guid>
-			<link>https://plailect.github.io/Guide/2.1.0_qr.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 04:00:12 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0_qr.torrent" length="6138" type="application/x-bittorent" />
+			<title>1.1.0_qr.png</title>
+			<description>1.1.0_qr.png</description>
+			<guid>7D2707AE938991140E94502A4C9880579E7FAA7C</guid>
+			<link>https://plailect.github.io/Guide/1.1.0_qr.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 04:00:09 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/1.1.0_qr.torrent" length="5812" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.1.0-4E_ctrtransfer_o3ds.zip</title>
@@ -109,12 +29,28 @@
 			<enclosure url="https://plailect.github.io/Guide/2.1.0-4E_ctrtransfer_o3ds.torrent" length="769861147" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20E_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20E_ctrtransfer_n3ds.zip</description>
-			<guid>FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:03:24 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" length="1078614314" type="application/x-bittorent" />
+			<title>2.1.0-4J_ctrtransfer_o3ds.zip</title>
+			<description>2.1.0-4J_ctrtransfer_o3ds.zip</description>
+			<guid>3DBB9C9C85A33C6242F424DCBAEBCACDD8A5912B</guid>
+			<link>https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:01:35 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0-4J_ctrtransfer_o3ds.torrent" length="766749988" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>2.1.0-4U_ctrtransfer_o3ds.zip</title>
+			<description>2.1.0-4U_ctrtransfer_o3ds.zip</description>
+			<guid>1609CE9EE7B0ED9B6DEA0B3E7CCA4FC52DAD6FF4</guid>
+			<link>https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:02:37 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0-4U_ctrtransfer_o3ds.torrent" length="741319805" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>2.1.0E(Full).zip</title>
+			<description>2.1.0E(Full).zip</description>
+			<guid>AC8349B75D3AF54BA92D561662D80A96CAC4AA7F</guid>
+			<link>https://plailect.github.io/Guide/2.1.0E(Full).torrent</link>
+			<pubDate>Mon, 25 Jul 2016 20:28:35 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" length="150999703" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.1.0J(Full).zip</title>
@@ -133,60 +69,12 @@
 			<enclosure url="https://plailect.github.io/Guide/2.1.0U(Full).torrent" length="124608587" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>o3ds_firmware.zip</title>
-			<description>o3ds_firmware.zip</description>
-			<guid>0323FFE6F1DF5986517BAEF2211A3E98634E34EC</guid>
-			<link>https://plailect.github.io/Guide/o3ds_firmware.torrent</link>
-			<pubDate>Sat, 27 Aug 2016 21:30:23 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/o3ds_firmware.torrent" length="617690" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20J_ctrtransfer_o3ds.zip</title>
-			<description>9.2.0-20J_ctrtransfer_o3ds.zip</description>
-			<guid>24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:05:16 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" length="774577032" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>n3ds_firmware.zip</title>
-			<description>n3ds_firmware.zip</description>
-			<guid>7AAD3CAD0E89F4288940641168D040B49B50FA40</guid>
-			<link>https://plailect.github.io/Guide/n3ds_firmware.torrent</link>
-			<pubDate>Sat, 27 Aug 2016 21:30:20 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/n3ds_firmware.torrent" length="833840" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20U(Full).zip</title>
-			<description>9.2.0-20U(Full).zip</description>
-			<guid>940D6479A3972A99DAEB85C499F0D6E4E24A2C8B</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20U(Full).torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:14:22 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" length="177532065" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>exidia_save.zip</title>
-			<description>exidia_save.zip</description>
-			<guid>5AB3518F63994D275C6F7352C396C618541BB4D0</guid>
-			<link>https://plailect.github.io/Guide/exidia_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:27 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/exidia_save.torrent" length="34342" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>update.php</title>
-			<description>update.php</description>
-			<guid>CD7E59EA9744115913B561DBDE15F8D68E713507</guid>
-			<link>https://plailect.github.io/Guide/update.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 04:54:21 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/update.torrent" length="5171" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>fieldrunners_eur_save.zip</title>
-			<description>fieldrunners_eur_save.zip</description>
-			<guid>A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E</guid>
-			<link>https://plailect.github.io/Guide/fieldrunners_eur_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:30 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" length="31288" type="application/x-bittorent" />
+			<title>2.1.0_qr.png</title>
+			<description>2.1.0_qr.png</description>
+			<guid>8D96457DC182160A5F7F5E9B2FB51705F7C8985F</guid>
+			<link>https://plailect.github.io/Guide/2.1.0_qr.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 04:00:12 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/2.1.0_qr.torrent" length="6138" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.2.0_qr.png</title>
@@ -197,14 +85,6 @@
 			<enclosure url="https://plailect.github.io/Guide/2.2.0_qr.torrent" length="26938" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>1.1.0_qr.png</title>
-			<description>1.1.0_qr.png</description>
-			<guid>7D2707AE938991140E94502A4C9880579E7FAA7C</guid>
-			<link>https://plailect.github.io/Guide/1.1.0_qr.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 04:00:09 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/1.1.0_qr.torrent" length="5812" type="application/x-bittorent" />
-		</item>
-		<item>
 			<title>3ds-private-update-server.zip</title>
 			<description>3ds-private-update-server.zip</description>
 			<guid>8623E580752F22940D96630EF723CE30A707B22E</guid>
@@ -213,92 +93,12 @@
 			<enclosure url="https://plailect.github.io/Guide/3ds-private-update-server.torrent" length="16831" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>9.2.0-20J(Full).zip</title>
-			<description>9.2.0-20J(Full).zip</description>
-			<guid>BB27A53A524276B6527D3B139395B2AFC7AFFE1A</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20J(Full).torrent</link>
-			<pubDate>Mon, 25 Jul 2016 20:29:20 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" length="161440346" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>1.0.0_qr.png</title>
-			<description>1.0.0_qr.png</description>
-			<guid>9EEABFD544483545A3B29BF8ED4DBE1544F6F6D4</guid>
-			<link>https://plailect.github.io/Guide/1.0.0_qr.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 04:00:06 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/1.0.0_qr.torrent" length="6134" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20U(Full)_n3DS.zip</title>
-			<description>9.2.0-20U(Full)_n3DS.zip</description>
-			<guid>1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:14:27 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" length="132327215" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20E(Full).zip</title>
-			<description>9.2.0-20E(Full).zip</description>
-			<guid>844006EB64474C115BD5B847F6C59D333BE3397A</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20E(Full).torrent</link>
-			<pubDate>Mon, 25 Jul 2016 20:28:56 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" length="196860903" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>grtpwn_eur_save.zip</title>
-			<description>grtpwn_eur_save.zip</description>
-			<guid>AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0</guid>
-			<link>https://plailect.github.io/Guide/grtpwn_eur_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 15:04:08 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" length="69402" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>NTR Debugger.zip</title>
-			<description>NTR Debugger.zip</description>
-			<guid>66274CEE542BEF7745792714673BF2BE4D606496</guid>
-			<link>https://plailect.github.io/Guide/NTR Debugger.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 04:31:19 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/NTR Debugger.torrent" length="20042111" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20E_ctrtransfer_o3ds.zip</title>
-			<description>9.2.0-20E_ctrtransfer_o3ds.zip</description>
-			<guid>8D6142313971B08F92257E7FB1C1D5689E34ED78</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:04:23 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" length="757852955" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>n3DS 10.4.cia</title>
-			<description>n3DS 10.4.cia</description>
-			<guid>0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4</guid>
-			<link>https://plailect.github.io/Guide/n3DS 10.4.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:07 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 10.4.torrent" length="1008896" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20J_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20J_ctrtransfer_n3ds.zip</description>
-			<guid>B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</guid>
-			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent</link>
-			<pubDate>Sat, 20 Aug 2016 17:04:42 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" length="1053583464" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>2.1.0E(Full).zip</title>
-			<description>2.1.0E(Full).zip</description>
-			<guid>AC8349B75D3AF54BA92D561662D80A96CAC4AA7F</guid>
-			<link>https://plailect.github.io/Guide/2.1.0E(Full).torrent</link>
-			<pubDate>Mon, 25 Jul 2016 20:28:35 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/2.1.0E(Full).torrent" length="150999703" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>fieldrunners_usa_save.zip</title>
-			<description>fieldrunners_usa_save.zip</description>
-			<guid>34D12DBDE622AFF3C43736F4668162C3BB2D05A9</guid>
-			<link>https://plailect.github.io/Guide/fieldrunners_usa_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:33 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" length="31288" type="application/x-bittorent" />
+			<title>9.0.0-20K(Full).zip</title>
+			<description>9.0.0-20K(Full).zip</description>
+			<guid>2695D01CDFECB74A59E25B98F76AB9285A2DAE11</guid>
+			<link>https://plailect.github.io/Guide/9.0.0-20K(Full).torrent</link>
+			<pubDate>Sat, 27 Aug 2016 20:16:29 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.0.0-20K(Full).torrent" length="123861830" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>9.0.0-20T(Full).zip</title>
@@ -309,20 +109,12 @@
 			<enclosure url="https://plailect.github.io/Guide/9.0.0-20T(Full).torrent" length="128171715" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>autofirm_Reboot_11.0.zip</title>
-			<description>autofirm_Reboot_11.0.zip</description>
-			<guid>233FD2C61BBD6F90F6F4761A7FB822F02F442E5D</guid>
-			<link>https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 05:01:30 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" length="3076440" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>aeskeydb.bin</title>
-			<description>aeskeydb.bin</description>
-			<guid>EC48C225C2BFDA844274A97D3EEED3F612B4952A</guid>
-			<link>https://plailect.github.io/Guide/aeskeydb.torrent</link>
-			<pubDate>Fri, 12 Aug 2016 04:10:01 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="160" type="application/x-bittorent" />
+			<title>9.2.0-20E(Full).zip</title>
+			<description>9.2.0-20E(Full).zip</description>
+			<guid>844006EB64474C115BD5B847F6C59D333BE3397A</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20E(Full).torrent</link>
+			<pubDate>Mon, 25 Jul 2016 20:28:56 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full).torrent" length="196860903" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>9.2.0-20E(Full)_n3DS.zip</title>
@@ -333,12 +125,228 @@
 			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E(Full)_n3DS.torrent" length="148685306" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>9.2.0-20E_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20E_ctrtransfer_n3ds.zip</description>
+			<guid>FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:03:24 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_n3ds.torrent" length="1078614314" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20E_ctrtransfer_o3ds.zip</title>
+			<description>9.2.0-20E_ctrtransfer_o3ds.zip</description>
+			<guid>8D6142313971B08F92257E7FB1C1D5689E34ED78</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:04:23 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20E_ctrtransfer_o3ds.torrent" length="757852955" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20J(Full).zip</title>
+			<description>9.2.0-20J(Full).zip</description>
+			<guid>BB27A53A524276B6527D3B139395B2AFC7AFFE1A</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20J(Full).torrent</link>
+			<pubDate>Mon, 25 Jul 2016 20:29:20 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full).torrent" length="161440346" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20J(Full)_n3DS.zip</title>
+			<description>9.2.0-20J(Full)_n3DS.zip</description>
+			<guid>C8630ED31B53637B9023BD4DC1CE38362BB8ECD9</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent</link>
+			<pubDate>Mon, 25 Jul 2016 20:29:29 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" length="121606805" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20J_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20J_ctrtransfer_n3ds.zip</description>
+			<guid>B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:04:42 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_n3ds.torrent" length="1053583464" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20J_ctrtransfer_o3ds.zip</title>
+			<description>9.2.0-20J_ctrtransfer_o3ds.zip</description>
+			<guid>24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent</link>
+			<pubDate>Sat, 20 Aug 2016 17:05:16 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20J_ctrtransfer_o3ds.torrent" length="774577032" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20U(Full).zip</title>
+			<description>9.2.0-20U(Full).zip</description>
+			<guid>940D6479A3972A99DAEB85C499F0D6E4E24A2C8B</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20U(Full).torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:14:22 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full).torrent" length="177532065" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20U(Full)_n3DS.zip</title>
+			<description>9.2.0-20U(Full)_n3DS.zip</description>
+			<guid>1E670B71B7F26F2765BBE55D0F6CB8C0459D2E8C</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:14:27 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U(Full)_n3DS.torrent" length="132327215" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>9.2.0-20U_ctrtransfer_n3ds.zip</title>
+			<description>9.2.0-20U_ctrtransfer_n3ds.zip</description>
+			<guid>985D47442DC470D1B9F908256BED041C63885F60</guid>
+			<link>https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent</link>
+			<pubDate>Wed, 24 Aug 2016 19:52:00 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_n3ds.torrent" length="1075525240" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>9.2.0-20U_ctrtransfer_o3ds.zip</title>
 			<description>9.2.0-20U_ctrtransfer_o3ds.zip</description>
 			<guid>1DC79A2A0BABB45497961888F369423A93135E2B</guid>
 			<link>https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent</link>
 			<pubDate>Sat, 20 Aug 2016 17:06:17 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/9.2.0-20U_ctrtransfer_o3ds.torrent" length="772676297" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>aeskeydb.bin</title>
+			<description>aeskeydb.bin</description>
+			<guid>EC48C225C2BFDA844274A97D3EEED3F612B4952A</guid>
+			<link>https://plailect.github.io/Guide/aeskeydb.torrent</link>
+			<pubDate>Fri, 12 Aug 2016 04:10:01 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="160" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>autofirm_Reboot_11.0.zip</title>
+			<description>autofirm_Reboot_11.0.zip</description>
+			<guid>233FD2C61BBD6F90F6F4761A7FB822F02F442E5D</guid>
+			<link>https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 05:01:30 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" length="3076440" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>data_input_v2.zip</title>
+			<description>data_input_v2.zip</description>
+			<guid>35ED29E5E14908BA4D7F1F806BAEC98428C85643</guid>
+			<link>https://plailect.github.io/Guide/data_input_v2.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:15:03 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/data_input_v2.torrent" length="1681645" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>dgTool_n3ds.zip</title>
+			<description>dgTool_n3ds.zip</description>
+			<guid>83DEF8C4D566811CCD67C0F7D88774D736E0D0AB</guid>
+			<link>https://plailect.github.io/Guide/dgTool_n3ds.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 03:22:47 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" length="1679621" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>dgTool_o3ds.zip</title>
+			<description>dgTool_o3ds.zip</description>
+			<guid>2AFDCF51D3A49C005062967A27E5618DAD541759</guid>
+			<link>https://plailect.github.io/Guide/dgTool_o3ds.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 03:22:53 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1244018" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>exidia_save.zip</title>
+			<description>exidia_save.zip</description>
+			<guid>5AB3518F63994D275C6F7352C396C618541BB4D0</guid>
+			<link>https://plailect.github.io/Guide/exidia_save.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 03:37:27 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/exidia_save.torrent" length="34342" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>fieldrunners_eur_save.zip</title>
+			<description>fieldrunners_eur_save.zip</description>
+			<guid>A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E</guid>
+			<link>https://plailect.github.io/Guide/fieldrunners_eur_save.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 03:37:30 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/fieldrunners_eur_save.torrent" length="31288" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>fieldrunners_usa_save.zip</title>
+			<description>fieldrunners_usa_save.zip</description>
+			<guid>34D12DBDE622AFF3C43736F4668162C3BB2D05A9</guid>
+			<link>https://plailect.github.io/Guide/fieldrunners_usa_save.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 03:37:33 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/fieldrunners_usa_save.torrent" length="31288" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>grtpwn_eur_save.zip</title>
+			<description>grtpwn_eur_save.zip</description>
+			<guid>AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0</guid>
+			<link>https://plailect.github.io/Guide/grtpwn_eur_save.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 15:04:08 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" length="69402" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>n3DS 10.4.cia</title>
+			<description>n3DS 10.4.cia</description>
+			<guid>0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4</guid>
+			<link>https://plailect.github.io/Guide/n3DS 10.4.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:15:07 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/n3DS 10.4.torrent" length="1008896" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>n3DS 11.0.cia</title>
+			<description>n3DS 11.0.cia</description>
+			<guid>81875690D5BB03E9E7038B4948130BE94EEAA681</guid>
+			<link>https://plailect.github.io/Guide/n3DS 11.0.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:15:12 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/n3DS 11.0.torrent" length="1017088" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>n3ds_firmware.zip</title>
+			<description>n3ds_firmware.zip</description>
+			<guid>7AAD3CAD0E89F4288940641168D040B49B50FA40</guid>
+			<link>https://plailect.github.io/Guide/n3ds_firmware.torrent</link>
+			<pubDate>Sat, 27 Aug 2016 21:30:20 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/n3ds_firmware.torrent" length="833840" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>Nintendo DS Cart Whitelist - v11264.cia</title>
+			<description>Nintendo DS Cart Whitelist - v11264.cia</description>
+			<guid>7B90D506AD032A581A00035616EAA17A68C48EFF</guid>
+			<link>https://plailect.github.io/Guide/Nintendo DS Cart Whitelist - v11264.torrent</link>
+			<pubDate>Wed, 31 Aug 2016 19:12:44 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/Nintendo DS Cart Whitelist - v11264.torrent" length="391424" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>NTR Debugger.zip</title>
+			<description>NTR Debugger.zip</description>
+			<guid>66274CEE542BEF7745792714673BF2BE4D606496</guid>
+			<link>https://plailect.github.io/Guide/NTR Debugger.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 04:31:19 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/NTR Debugger.torrent" length="20042111" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>o3DS 10.4.cia</title>
+			<description>o3DS 10.4.cia</description>
+			<guid>60B86DEC3757C0707037C7F2E0E7DB0892044606</guid>
+			<link>https://plailect.github.io/Guide/o3DS 10.4.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:15:16 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/o3DS 10.4.torrent" length="976128" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>o3DS 11.0.cia</title>
+			<description>o3DS 11.0.cia</description>
+			<guid>4466D82B06AFF18C9F4A438281F6389D565FDB9A</guid>
+			<link>https://plailect.github.io/Guide/o3DS 11.0.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 00:15:20 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/o3DS 11.0.torrent" length="980224" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>o3ds_firmware.zip</title>
+			<description>o3ds_firmware.zip</description>
+			<guid>0323FFE6F1DF5986517BAEF2211A3E98634E34EC</guid>
+			<link>https://plailect.github.io/Guide/o3ds_firmware.torrent</link>
+			<pubDate>Sat, 27 Aug 2016 21:30:23 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/o3ds_firmware.torrent" length="617690" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>update.php</title>
+			<description>update.php</description>
+			<guid>CD7E59EA9744115913B561DBDE15F8D68E713507</guid>
+			<link>https://plailect.github.io/Guide/update.torrent</link>
+			<pubDate>Tue, 26 Jul 2016 04:54:21 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/update.torrent" length="5171" type="application/x-bittorent" />
 		</item>
 	</channel>
 </rss>
