@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Wed, 31 Aug 2016 19:20:08 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 03 Sep 2016 17:31:41 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -245,6 +245,22 @@
 			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1244018" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>DS Download Play - v1024.cia</title>
+			<description>DS Download Play - v1024.cia</description>
+			<guid>B581D3C5D98F5E621FDDFC1CE5704BB45BF05A8C</guid>
+			<link>https://plailect.github.io/Guide/DS Download Play - v1024.torrent</link>
+			<pubDate>Sat, 03 Sep 2016 17:26:31 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/DS Download Play - v1024.torrent" length="447680" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>DS Internet - v2048.cia</title>
+			<description>DS Internet - v2048.cia</description>
+			<guid>2B9DF8496922F2546DFB0B01220068CE53C19D3D</guid>
+			<link>https://plailect.github.io/Guide/DS Internet - v2048.torrent</link>
+			<pubDate>Sat, 03 Sep 2016 17:26:35 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/DS Internet - v2048.torrent" length="1320192" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>exidia_save.zip</title>
 			<description>exidia_save.zip</description>
 			<guid>5AB3518F63994D275C6F7352C396C618541BB4D0</guid>
@@ -301,6 +317,14 @@
 			<enclosure url="https://plailect.github.io/Guide/n3ds_firmware.torrent" length="833840" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>New_3DS TWL_FIRM - v9936.cia</title>
+			<description>New_3DS TWL_FIRM - v9936.cia</description>
+			<guid>EAB8558C97B18B1F329A2BFCC3C899B84C082A27</guid>
+			<link>https://plailect.github.io/Guide/New_3DS TWL_FIRM - v9936.torrent</link>
+			<pubDate>Sat, 03 Sep 2016 17:26:39 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/New_3DS TWL_FIRM - v9936.torrent" length="1746176" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>Nintendo DS Cart Whitelist - v11264.cia</title>
 			<description>Nintendo DS Cart Whitelist - v11264.cia</description>
 			<guid>7B90D506AD032A581A00035616EAA17A68C48EFF</guid>
@@ -339,6 +363,22 @@
 			<link>https://plailect.github.io/Guide/o3ds_firmware.torrent</link>
 			<pubDate>Sat, 27 Aug 2016 21:30:23 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/o3ds_firmware.torrent" length="617690" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>Old_3DS TWL_FIRM - v8817.cia</title>
+			<description>Old_3DS TWL_FIRM - v8817.cia</description>
+			<guid>17511EADB6E6F3FF22D04F90644E37BD2D96CA43</guid>
+			<link>https://plailect.github.io/Guide/Old_3DS TWL_FIRM - v8817.torrent</link>
+			<pubDate>Sat, 03 Sep 2016 17:26:42 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/Old_3DS TWL_FIRM - v8817.torrent" length="1725696" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>TWL Version Data - v0.cia</title>
+			<description>TWL Version Data - v0.cia</description>
+			<guid>4A106681407FEDE5DE95CC8BDA635432481F6B5D</guid>
+			<link>https://plailect.github.io/Guide/TWL Version Data - v0.torrent</link>
+			<pubDate>Sat, 03 Sep 2016 17:26:44 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/TWL Version Data - v0.torrent" length="21584" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>update.php</title>
