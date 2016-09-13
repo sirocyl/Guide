@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sat, 03 Sep 2016 17:31:41 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 13 Sep 2016 15:19:06 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -19,6 +19,38 @@
 			<link>https://plailect.github.io/Guide/1.1.0_qr.torrent</link>
 			<pubDate>Tue, 26 Jul 2016 04:00:09 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/1.1.0_qr.torrent" length="5812" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.0.0_to_10.4.0_n3ds.zip</title>
+			<description>11.0.0_to_10.4.0_n3ds.zip</description>
+			<guid>2D13A5EA1570F911BD5C6423E0C30E51D548837A</guid>
+			<link>https://plailect.github.io/Guide/11.0.0_to_10.4.0_n3ds.torrent</link>
+			<pubDate>Tue, 13 Sep 2016 15:18:54 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.0.0_to_10.4.0_n3ds.torrent" length="1679467" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.0.0_to_10.4.0_o3ds.zip</title>
+			<description>11.0.0_to_10.4.0_o3ds.zip</description>
+			<guid>72393BBD99BC285DB84A9CABF39D9B3200058D6A</guid>
+			<link>https://plailect.github.io/Guide/11.0.0_to_10.4.0_o3ds.torrent</link>
+			<pubDate>Tue, 13 Sep 2016 15:18:58 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.0.0_to_10.4.0_o3ds.torrent" length="1243864" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.1.0_to_10.4.0_n3ds.zip</title>
+			<description>11.1.0_to_10.4.0_n3ds.zip</description>
+			<guid>D7D60C27C18F53BD8508A194656A465F6448BEDF</guid>
+			<link>https://plailect.github.io/Guide/11.1.0_to_10.4.0_n3ds.torrent</link>
+			<pubDate>Tue, 13 Sep 2016 15:19:01 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.1.0_to_10.4.0_n3ds.torrent" length="1680327" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.1.0_to_10.4.0_o3ds.zip</title>
+			<description>11.1.0_to_10.4.0_o3ds.zip</description>
+			<guid>0CAF9A948A2D8BF23606D641F6628E2BAEB983BB</guid>
+			<link>https://plailect.github.io/Guide/11.1.0_to_10.4.0_o3ds.torrent</link>
+			<pubDate>Tue, 13 Sep 2016 15:19:04 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.1.0_to_10.4.0_o3ds.torrent" length="1244532" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.1.0-4E_ctrtransfer_o3ds.zip</title>
@@ -213,36 +245,12 @@
 			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="160" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>autofirm_Reboot_11.0.zip</title>
-			<description>autofirm_Reboot_11.0.zip</description>
-			<guid>233FD2C61BBD6F90F6F4761A7FB822F02F442E5D</guid>
-			<link>https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 05:01:30 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/autofirm_Reboot_11.0.torrent" length="3076440" type="application/x-bittorent" />
-		</item>
-		<item>
 			<title>data_input_v2.zip</title>
 			<description>data_input_v2.zip</description>
 			<guid>35ED29E5E14908BA4D7F1F806BAEC98428C85643</guid>
 			<link>https://plailect.github.io/Guide/data_input_v2.torrent</link>
 			<pubDate>Tue, 26 Jul 2016 00:15:03 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/data_input_v2.torrent" length="1681645" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>dgTool_n3ds.zip</title>
-			<description>dgTool_n3ds.zip</description>
-			<guid>83DEF8C4D566811CCD67C0F7D88774D736E0D0AB</guid>
-			<link>https://plailect.github.io/Guide/dgTool_n3ds.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:22:47 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_n3ds.torrent" length="1679621" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>dgTool_o3ds.zip</title>
-			<description>dgTool_o3ds.zip</description>
-			<guid>2AFDCF51D3A49C005062967A27E5618DAD541759</guid>
-			<link>https://plailect.github.io/Guide/dgTool_o3ds.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:22:53 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/dgTool_o3ds.torrent" length="1244018" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>DS Download Play - v1024.cia</title>
