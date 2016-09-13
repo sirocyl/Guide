@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Tue, 13 Sep 2016 15:19:06 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 13 Sep 2016 15:33:13 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -301,22 +301,6 @@
 			<enclosure url="https://plailect.github.io/Guide/grtpwn_eur_save.torrent" length="69402" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>n3DS 10.4.cia</title>
-			<description>n3DS 10.4.cia</description>
-			<guid>0CD996818E3EDB0DD2CAD1E5B44F80C1B5A876F4</guid>
-			<link>https://plailect.github.io/Guide/n3DS 10.4.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:07 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 10.4.torrent" length="1008896" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>n3DS 11.0.cia</title>
-			<description>n3DS 11.0.cia</description>
-			<guid>81875690D5BB03E9E7038B4948130BE94EEAA681</guid>
-			<link>https://plailect.github.io/Guide/n3DS 11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:12 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/n3DS 11.0.torrent" length="1017088" type="application/x-bittorent" />
-		</item>
-		<item>
 			<title>n3ds_firmware.zip</title>
 			<description>n3ds_firmware.zip</description>
 			<guid>7AAD3CAD0E89F4288940641168D040B49B50FA40</guid>
@@ -347,22 +331,6 @@
 			<link>https://plailect.github.io/Guide/NTR Debugger.torrent</link>
 			<pubDate>Tue, 26 Jul 2016 04:31:19 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/NTR Debugger.torrent" length="20042111" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>o3DS 10.4.cia</title>
-			<description>o3DS 10.4.cia</description>
-			<guid>60B86DEC3757C0707037C7F2E0E7DB0892044606</guid>
-			<link>https://plailect.github.io/Guide/o3DS 10.4.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:16 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 10.4.torrent" length="976128" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>o3DS 11.0.cia</title>
-			<description>o3DS 11.0.cia</description>
-			<guid>4466D82B06AFF18C9F4A438281F6389D565FDB9A</guid>
-			<link>https://plailect.github.io/Guide/o3DS 11.0.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 00:15:20 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/o3DS 11.0.torrent" length="980224" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>o3ds_firmware.zip</title>
