@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Tue, 13 Sep 2016 15:33:13 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 18 Sep 2016 23:04:46 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -239,10 +239,10 @@
 		<item>
 			<title>aeskeydb.bin</title>
 			<description>aeskeydb.bin</description>
-			<guid>EC48C225C2BFDA844274A97D3EEED3F612B4952A</guid>
+			<guid>18B3A17F78E2376E05FEAA150749D9FD689B25DC</guid>
 			<link>https://plailect.github.io/Guide/aeskeydb.torrent</link>
-			<pubDate>Fri, 12 Aug 2016 04:10:01 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="160" type="application/x-bittorent" />
+			<pubDate>Sun, 18 Sep 2016 23:04:27 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="256" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>data_input_v2.zip</title>
