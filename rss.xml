@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Thu, 29 Sep 2016 20:47:23 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 30 Sep 2016 21:21:29 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -275,6 +275,14 @@
 			<link>https://plailect.github.io/Guide/exidia_save.torrent</link>
 			<pubDate>Tue, 26 Jul 2016 03:37:27 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/exidia_save.torrent" length="34342" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>fbi-2.4.2-injectable.zip</title>
+			<description>fbi-2.4.2-injectable.zip</description>
+			<guid>F978B4CF5EDA72823240B9C649F3FD2940A9F525</guid>
+			<link>https://plailect.github.io/Guide/fbi-2.4.2-injectable.torrent</link>
+			<pubDate>Fri, 30 Sep 2016 21:21:15 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/fbi-2.4.2-injectable.torrent" length="5567581" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>fieldrunners_eur_save.zip</title>
