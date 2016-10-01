@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 30 Sep 2016 21:21:29 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 01 Oct 2016 21:09:58 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -243,6 +243,14 @@
 			<link>https://plailect.github.io/Guide/aeskeydb.torrent</link>
 			<pubDate>Sun, 18 Sep 2016 23:04:27 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/aeskeydb.torrent" length="256" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>ctr-common-1.zip</title>
+			<description>ctr-common-1.zip</description>
+			<guid>AF6D3F8B0A9C13D63B9405DC375CC68AF614394D</guid>
+			<link>https://plailect.github.io/Guide/ctr-common-1.torrent</link>
+			<pubDate>Sat, 01 Oct 2016 21:09:55 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/ctr-common-1.torrent" length="2644" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>data_input_v3.zip</title>
