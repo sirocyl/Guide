@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sat, 01 Oct 2016 21:09:58 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 25 Oct 2016 16:45:06 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/wiki</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -51,6 +51,22 @@
 			<link>https://plailect.github.io/Guide/11.1.0_to_10.4.0_o3ds.torrent</link>
 			<pubDate>Tue, 13 Sep 2016 15:19:04 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/11.1.0_to_10.4.0_o3ds.torrent" length="1244532" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.2.0_to_10.4.0_n3ds.zip</title>
+			<description>11.2.0_to_10.4.0_n3ds.zip</description>
+			<guid>FDB4234CF71C6243F7B4B73669A7D33D575A94D5</guid>
+			<link>https://plailect.github.io/Guide/11.2.0_to_10.4.0_n3ds.torrent</link>
+			<pubDate>Tue, 25 Oct 2016 16:44:38 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.2.0_to_10.4.0_n3ds.torrent" length="1676988" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.2.0_to_10.4.0_o3ds.zip</title>
+			<description>11.2.0_to_10.4.0_o3ds.zip</description>
+			<guid>99143C052528BF9990E9F589B7D2BDD954634E84</guid>
+			<link>https://plailect.github.io/Guide/11.2.0_to_10.4.0_o3ds.torrent</link>
+			<pubDate>Tue, 25 Oct 2016 16:44:44 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/11.2.0_to_10.4.0_o3ds.torrent" length="1240872" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.1.0-4E_ctrtransfer_o3ds.zip</title>
