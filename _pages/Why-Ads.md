@@ -11,5 +11,5 @@ This site costs you nothing to use, and all that I display are text-based non-in
 
 If you do block ads, I would like to also remind you of the [Donations](donations) page, but once again that is optional too.
 
-Thanks for understanding,<br>
+Thanks,<br>
 Plailect
