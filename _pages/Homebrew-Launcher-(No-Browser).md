@@ -34,7 +34,7 @@ If you do not already own any of these games and do not have another 3DS that ca
 | <sub>[stickerhax](https://github.com/yellows8/stickerhax) | <sub>*Paper Mario: Sticker Star*, <br> Another 3DS which already has the Homebrew Launcher | <sub>eShop, Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, KOR, USA | <sub>All | <sub>9.0.0-X up to and including 11.1.0-X |
 | <sub>[Ninjhax 2](http://smealum.github.io/ninjhax2/) | <sub>*Cubic Ninja* | <sub>eShop, Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, USA | <sub>All | <sub>9.0.0-X up to and including 11.1.0-X |
 
-If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-Downgrade)
+If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-downgrade)
 {: .notice--primary}
 
 If you are on the version 9.2.0 or below, continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))

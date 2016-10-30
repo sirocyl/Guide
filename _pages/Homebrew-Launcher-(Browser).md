@@ -46,7 +46,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 You can now launch the Homebrew Launcher by holding D-Pad (Down) while the system is booting
 {: .notice--info}
 
-If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-Downgrade)
+If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-downgrade)
 {: .notice--primary}
 
 If you are on the version 9.2.0 or below, continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))

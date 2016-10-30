@@ -34,9 +34,9 @@ During this process, we also setup programs such as the following:
 
 #### What you need
 
-* <a href="https://plailect.github.io/Guide/torrents/aeskeydb.torrent" target="_blank">`aeskeydb.bin`</a>
-* <a href="https://plailect.github.io/Guide/torrents/data_input_v3.torrent" target="_blank">`data_input_v3.zip`</a>
-* <a href="https://plailect.github.io/Guide/torrents/fbi-2.4.2-injectable.torrent" target="_blank">`fbi-2.4.2-injectable.zip`</a>
+* [`aeskeydb.bin`](torrents/aeskeydb.torrent)
+* [`data_input_v3.zip`](torrents/data_input_v3.torrent)
+* [`fbi-2.4.2-injectable.zip`](torrents/fbi-2.4.2-injectable.torrent)
 * The release of SafeA9LHInstaller corresponding to your device:
   + New 3DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.5.1)
   + Old 3DS or 2DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.0.3)

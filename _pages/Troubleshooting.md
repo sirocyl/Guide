@@ -15,12 +15,12 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 #### What you need
 
 * The TWL_FIRM `.cia` for your device
-    + <a href="https://plailect.github.io/Guide/torrents/New_3DS%20TWL_FIRM%20-%20v9936.torrent" target="_blank">`New_3DS TWL_FIRM - v9936.cia`</a>
-    + <a href="https://plailect.github.io/Guide/torrents/Old_3DS%20TWL_FIRM%20-%20v8817.torrent" target="_blank">`Old_3DS TWL_FIRM - v8817.cia`</a>
-* <a href="https://plailect.github.io/Guide/torrents/TWL%20Version%20Data%20-%20v0.torrent" target="_blank">`TWL Version Data - v0.cia`</a>
-* <a href="https://plailect.github.io/Guide/torrents/DS%20Internet%20-%20v2048.torrent" target="_blank">`DS Internet - v2048.cia`</a>
-* <a href="https://plailect.github.io/Guide/torrents/DS%20Download%20Play%20-%20v1024.torrent" target="_blank">`DS Download Play - v1024.cia`</a>
-* <a href="https://plailect.github.io/Guide/torrents/Nintendo%20DS%20Cart%20Whitelist%20-%20v11264.torrent" target="_blank">`Nintendo DS Cart Whitelist - v11264.cia`</a>
+    + [`New_3DS TWL_FIRM - v9936.cia`](torrents/New_3DS%20TWL_FIRM%20-%20v9936.torrent)
+    + [`Old_3DS TWL_FIRM - v8817.cia`](torrents/Old_3DS%20TWL_FIRM%20-%20v8817.torrent)
+* [`TWL Version Data - v0.cia`](torrents/TWL%20Version%20Data%20-%20v0.torrent)
+* [`DS Internet - v2048.cia`](torrents/DS%20Internet%20-%20v2048.torrent)
+* [`DS Download Play - v1024.cia`](torrents/DS%20Download%20Play%20-%20v1024.torrent)
+* [`Nintendo DS Cart Whitelist - v11264.cia`](torrents/Nintendo%20DS%20Cart%20Whitelist%20-%20v11264.torrent)
 
 #### Instructions
 

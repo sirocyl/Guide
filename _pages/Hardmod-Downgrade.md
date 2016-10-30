@@ -21,14 +21,14 @@ This will work on New 3DS, Old 3DS, and 2DS.
 * The latest version of [autofirm](https://github.com/Plailect/autofirm/archive/master.zip)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The firmware zip corresponding to your device and version:
-    + <a href="https://plailect.github.io/Guide/torrents/11.0.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.0.0 to 10.4.0</a>
-    + <a href="https://plailect.github.io/Guide/torrents/11.0.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS or 2DS 11.0.0 to 10.4.0</a>     
+    + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent)
+    + [Old 3DS or 2DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent)     
     ~    
-    + <a href="https://plailect.github.io/Guide/torrents/11.1.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.1.0 to 10.4.0</a>     
-    + <a href="https://plailect.github.io/Guide/torrents/11.1.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS or 2DS 11.1.0 to 10.4.0</a>     
+    + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent)     
+    + [Old 3DS or 2DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent)     
     ~    
-    + <a href="https://plailect.github.io/Guide/torrents/11.2.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.2.0 to 10.4.0</a>     
-    + <a href="https://plailect.github.io/Guide/torrents/11.2.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS 11.2.0 to 10.4.0</a>    
+    + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent)     
+    + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent)    
 
 #### Instructions_
 

@@ -45,24 +45,24 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia**: Works for **USA + EUR** (JPN title pulled from eShop)
   + **Guitar Rock Tour**: Works for **EUR Only** (game has been pulled in all regions, you must have installed it already)
 * The exploited save for your game and region:
-  + **Fieldrunners USA Region**: <a href="https://plailect.github.io/Guide/torrents/fieldrunners_usa_save.torrent" target="_blank">`public.sav`</a>
-  + **Fieldrunners EUR Region**: <a href="https://plailect.github.io/Guide/torrents/fieldrunners_eur_save.torrent" target="_blank">`public.sav`</a>
-  + **Guitar Rock Tour EUR Region**: <a href="https://plailect.github.io/Guide/torrents/grtpwn_eur_save.torrent" target="_blank">`public.sav`</a>
-  + **Legends of Exidia ALL Regions**: <a href="https://plailect.github.io/Guide/torrents/exidia_save.torrent" target="_blank">`public.sav`</a>
+  + **Fieldrunners USA Region**: [`public.sav`](torrents/fieldrunners_usa_save.torrent)
+  + **Fieldrunners EUR Region**: [`public.sav`](torrents/fieldrunners_eur_save.torrent)
+  + **Guitar Rock Tour EUR Region**: [`public.sav`](torrents/grtpwn_eur_save.torrent)
+  + **Legends of Exidia ALL Regions**: [`public.sav`](torrents/exidia_save.torrent)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The latest version of [Universal Inject Generator](https://github.com/d0k3/Universal-Inject-Generator/archive/master.zip)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The firmware zip corresponding to the device and version of **3DS #2**:
-  + <a href="https://plailect.github.io/Guide/torrents/11.0.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.0.0 to 10.4.0</a>
-  + <a href="https://plailect.github.io/Guide/torrents/11.0.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS 11.0.0 to 10.4.0</a>     
+  + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent)
+  + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent)     
   ~    
-  + <a href="https://plailect.github.io/Guide/torrents/11.1.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.1.0 to 10.4.0</a>     
-  + <a href="https://plailect.github.io/Guide/torrents/11.1.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS 11.1.0 to 10.4.0</a>     
+  + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent)     
+  + [Old 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent)     
   ~        
-  + <a href="https://plailect.github.io/Guide/torrents/11.2.0_to_10.4.0_n3ds.torrent" target="_blank">New 3DS 11.2.0 to 10.4.0</a>     
-  + <a href="https://plailect.github.io/Guide/torrents/11.2.0_to_10.4.0_o3ds.torrent" target="_blank">Old 3DS 11.2.0 to 10.4.0</a>    
+  + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent)     
+  + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent)    
 * Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **3DS #1**
 * The latest release of [steelhax](https://vegaroxas.github.io/)
 * If **3DS #2** is below 11.2.0, you will _also_ need the following

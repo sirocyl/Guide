@@ -11,14 +11,14 @@ permalink: /ntr-and-cubic-ninja.html
 * [JPN Cubic Ninja](https://www.amazon.com/dp/B004QL7M0A)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The latest release of [Decrypt9WIP9](https://github.com/d0k3/Decrypt9WIP/releases/latest)
-* [`3ds-private-update-server.zip`](https://plailect.github.io/Guide/3ds-private-update-server.torrent)
+* [`3ds-private-update-server.zip`](3ds-private-update-server.torrent)
 * [WAMPSERVER (PHP 5.5) 2.5](http://www.wampserver.com/en/#download-wrapper)
 * [`node.exe`](http://nodejs.org/dist/latest/win-x86/node.exe)
-* <a href="https://plailect.github.io/Guide/update.torrent" target="_blank">`update.php`</a>
+* [`update.php`](update.torrent)
 * The v3.2 release of [NTR CFW](https://github.com/44670/BootNTR/releases/tag/3.2)
-* The latest release of <a href="https://plailect.github.io/Guide/NTR%20Debugger.torrent" target="_blank">NTR Debugger</a>
+* The latest release of [NTR Debugger](NTR%20Debugger.torrent)
 * The 9.2.0 firmware pack zip file for your device and region:  
- +    <a href="https://plailect.github.io/Guide/9.2.0-20J(Full)_n3DS.torrent" target="_blank">New 3DS 9.2.0 - JPN</a>     
+ +    [New 3DS 9.2.0 - JPN](9.2.0-20J(Full)_n3DS.torrent)     
 
 #### Instructions
 

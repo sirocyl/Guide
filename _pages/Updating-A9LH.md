@@ -20,8 +20,8 @@ These steps will also update your various payloads and the AES key database.
 
 #### What you need
 
-* <a href="https://plailect.github.io/Guide/torrents/aeskeydb.torrent" target="_blank">`aeskeydb.bin`</a>
-* <a href="https://plailect.github.io/Guide/torrents/data_input_v3.torrent" target="_blank">`data_input_v3.zip`</a>
+* [`aeskeydb.bin`](torrents/aeskeydb.torrent)
+* [`data_input_v3.zip`](torrents/data_input_v3.torrent)
 * The latest release of [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest)
 * The latest release of [SafeA9LHInstaller](https://github.com/AuroraWright/SafeA9LHInstaller/releases/latest)
 * The latest release of [Hourglass9](https://github.com/d0k3/Hourglass9/releases/latest)
