@@ -26,13 +26,13 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/)
 * The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 * The 9.2.0 ctrtransfer image for your device and the region you want to switch to     
-  +    [New 3DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_n3ds.torrent)   
-  +    [New 3DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_n3ds.torrent)     
-  +    [New 3DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_n3ds.torrent)    
+  +    [New 3DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_n3ds.torrent){:target="_blank"}   
+  +    [New 3DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_n3ds.torrent){:target="_blank"}     
+  +    [New 3DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_n3ds.torrent){:target="_blank"}    
 ~
-  +    [Old 3DS or 2DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_o3ds.torrent)     
-  +    [Old 3DS or 2DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_o3ds.torrent)     
-  +    [Old 3DS or 2DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_o3ds.torrent)
+  +    [Old 3DS or 2DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_o3ds.torrent){:target="_blank"}     
+  +    [Old 3DS or 2DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_o3ds.torrent){:target="_blank"}     
+  +    [Old 3DS or 2DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_o3ds.torrent){:target="_blank"}
 
 #### Instructions
 

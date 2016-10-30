@@ -34,9 +34,9 @@ During this process, we also setup programs such as the following:
 
 #### What you need
 
-* [`aeskeydb.bin`](torrents/aeskeydb.torrent)
-* [`data_input_v3.zip`](torrents/data_input_v3.torrent)
-* [`fbi-2.4.2-injectable.zip`](torrents/fbi-2.4.2-injectable.torrent)
+* [`aeskeydb.bin`](torrents/aeskeydb.torrent){:target="_blank"}
+* [`data_input_v3.zip`](torrents/data_input_v3.torrent){:target="_blank"}
+* [`fbi-2.4.2-injectable.zip`](torrents/fbi-2.4.2-injectable.torrent){:target="_blank"}
 * The release of SafeA9LHInstaller corresponding to your device:
   + New 3DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.5.1)
   + Old 3DS or 2DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.0.3)
@@ -139,7 +139,7 @@ If you think your SD card may be corrupted, backup every file on your SD card to
   + If this gives you an error, set your DNS settings to "auto"
   + If this still gives you an error, restore your NAND backup before updating
     + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
-    + If your backup is of a version between 4.0.0 and 4.5.0, put [`firmware.bin`](https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent) in `/luma/`
+    + If your backup is of a version between 4.0.0 and 4.5.0, put [`firmware.bin`](https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent){:target="_blank"} in `/luma/`
     + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
     + Go to "SysNAND Backup/Restore"
     + Restore from `NANDmin.bin`
