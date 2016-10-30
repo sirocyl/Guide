@@ -215,3 +215,9 @@ You can remove your NAND backups from `/files9/` as long as you still have them 
 {% endcapture %}
 
 <div class="notice--info">{{ notice-7 | markdownify }}</div>
+
+For information on changing your device to another region, check out the [Region Changing](region-changing) page.
+{: .notice--success}
+
+For information on keeping your A9LH installation up to date, check out the [Updating A9LH](updating-a9lh) page.
+{: .notice--success}

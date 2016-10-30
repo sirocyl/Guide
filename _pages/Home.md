@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "<i class='fa fa-unlock' aria-hidden='true'></i> Get Started"
+  cta_label: "Get Started"
   cta_url: "/get-started"
   caption:
 excerpt: 'A complete guide to 3DS custom firmware, <br /> from stock to arm9loaderhax.<br />'
