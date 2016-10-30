@@ -45,24 +45,24 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia**: Works for **USA + EUR** (JPN title pulled from eShop)
   + **Guitar Rock Tour**: Works for **EUR Only** (game has been pulled in all regions, you must have installed it already)
 * The exploited save for your game and region:
-  + **Fieldrunners USA Region**: [`public.sav`](torrents/fieldrunners_usa_save.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:34d12dbde622aff3c43736f4668162c3bb2d05a9){:target="_blank"}
-  + **Fieldrunners EUR Region**: [`public.sav`](torrents/fieldrunners_eur_save.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a342e4a43ca6c5a4ec03f5891fd5b954bf4ab34e){:target="_blank"}
-  + **Guitar Rock Tour EUR Region**: [`public.sav`](torrents/grtpwn_eur_save.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:aa5bf12862437ba369a54f15fae27cbb6bcd0eb0){:target="_blank"}
-  + **Legends of Exidia ALL Regions**: [`public.sav`](torrents/exidia_save.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:5ab3518f63994d275c6f7352c396c618541bb4d0){:target="_blank"}
+  + **Fieldrunners USA Region**: [`public.sav`](torrents/fieldrunners_usa_save.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:34d12dbde622aff3c43736f4668162c3bb2d05a9){:target="_blank"}
+  + **Fieldrunners EUR Region**: [`public.sav`](torrents/fieldrunners_eur_save.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a342e4a43ca6c5a4ec03f5891fd5b954bf4ab34e){:target="_blank"}
+  + **Guitar Rock Tour EUR Region**: [`public.sav`](torrents/grtpwn_eur_save.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:aa5bf12862437ba369a54f15fae27cbb6bcd0eb0){:target="_blank"}
+  + **Legends of Exidia ALL Regions**: [`public.sav`](torrents/exidia_save.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:5ab3518f63994d275c6f7352c396c618541bb4d0){:target="_blank"}
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The latest version of [Universal Inject Generator](https://github.com/d0k3/Universal-Inject-Generator/archive/master.zip)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The firmware zip corresponding to the device and version of **3DS #2**:
-  + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a){:target="_blank"}
-  + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a){:target="_blank"}     
+  + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a){:target="_blank"}
+  + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a){:target="_blank"}     
   ~    
-  + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:d7d60c27c18f53bd8508a194656a465f6448bedf){:target="_blank"}     
-  + [Old 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:0caf9a948a2d8bf23606d641f6628e2baeb983bb){:target="_blank"}     
+  + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:d7d60c27c18f53bd8508a194656a465f6448bedf){:target="_blank"}     
+  + [Old 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:0caf9a948a2d8bf23606d641f6628e2baeb983bb){:target="_blank"}     
   ~        
-  + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c){:target="_blank"}     
-  + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151){:target="_blank"}    
+  + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c){:target="_blank"}     
+  + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151){:target="_blank"}    
 * Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **3DS #1**
 * The latest release of [steelhax](https://vegaroxas.github.io/)
 * If **3DS #2** is below 11.2.0, you will _also_ need the following

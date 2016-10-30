@@ -11,14 +11,14 @@ permalink: /ntr-and-cubic-ninja.html
 * [JPN Cubic Ninja](https://www.amazon.com/dp/B004QL7M0A)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The latest release of [Decrypt9WIP9](https://github.com/d0k3/Decrypt9WIP/releases/latest)
-* [`3ds-private-update-server.zip`](torrents/3ds-private-update-server.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:8623e580752f22940d96630ef723ce30a707b22e){:target="_blank"}
+* [`3ds-private-update-server.zip`](torrents/3ds-private-update-server.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:8623e580752f22940d96630ef723ce30a707b22e){:target="_blank"}
 * [WAMPSERVER (PHP 5.5) 2.5](http://www.wampserver.com/en/#download-wrapper)
 * [`node.exe`](http://nodejs.org/dist/latest/win-x86/node.exe)
-* [`update.php`](torrents/update.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:cd7e59ea9744115913b561dbde15f8d68e713507){:target="_blank"}
+* [`update.php`](torrents/update.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:cd7e59ea9744115913b561dbde15f8d68e713507){:target="_blank"}
 * The v3.2 release of [NTR CFW](https://github.com/44670/BootNTR/releases/tag/3.2)
-* The latest release of [NTR Debugger](torrents/NTR%20Debugger.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:66274cee542bef7745792714673bf2be4d606496){:target="_blank"}
+* The latest release of [NTR Debugger](torrents/NTR%20Debugger.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:66274cee542bef7745792714673bf2be4d606496){:target="_blank"}
 * The 9.2.0 firmware pack zip file for your device and region:  
- +    [New 3DS 9.2.0 - JPN](torrents/9.2.0-20J(Full)_n3DS.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:c8630ed31b53637b9023bd4dc1ce38362bb8ecd9){:target="_blank"}     
+ +    [New 3DS 9.2.0 - JPN](torrents/9.2.0-20J(Full)_n3DS.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:c8630ed31b53637b9023bd4dc1ce38362bb8ecd9){:target="_blank"}     
 
 #### Instructions
 

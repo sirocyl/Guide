@@ -21,14 +21,14 @@ This will work on New 3DS, Old 3DS, and 2DS.
 * The latest version of [autofirm](https://github.com/Plailect/autofirm/archive/master.zip)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The firmware zip corresponding to your device and version:
-    + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a){:target="_blank"}
-    + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a){:target="_blank"}     
+    + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a){:target="_blank"}
+    + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a){:target="_blank"}     
     ~    
-    + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:d7d60c27c18f53bd8508a194656a465f6448bedf){:target="_blank"}     
-    + [Old 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:0caf9a948a2d8bf23606d641f6628e2baeb983bb){:target="_blank"}     
+    + [New 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:d7d60c27c18f53bd8508a194656a465f6448bedf){:target="_blank"}     
+    + [Old 3DS 11.1.0 to 10.4.0](torrents/11.1.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:0caf9a948a2d8bf23606d641f6628e2baeb983bb){:target="_blank"}     
     ~        
-    + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c){:target="_blank"}     
-    + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151){:target="_blank"}     
+    + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c){:target="_blank"}     
+    + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151){:target="_blank"}     
 
 #### Instructions_
 

@@ -26,13 +26,13 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/)
 * The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 * The 9.2.0 ctrtransfer image for your device and the region you want to switch to     
-  +    [New 3DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:fed7bfeec0e52b42a77467cfb6ffd3e9dd2d5a70){:target="_blank"}   
-  +    [New 3DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:b22d67fd02b3b0e30ac991e451db0f2d32e7beca){:target="_blank"}     
-  +    [New 3DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_n3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:985d47442dc470d1b9f908256bed041c63885f60){:target="_blank"}    
+  +    [New 3DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:fed7bfeec0e52b42a77467cfb6ffd3e9dd2d5a70){:target="_blank"}   
+  +    [New 3DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:b22d67fd02b3b0e30ac991e451db0f2d32e7beca){:target="_blank"}     
+  +    [New 3DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_n3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:985d47442dc470d1b9f908256bed041c63885f60){:target="_blank"}    
 ~
-  +    [Old 3DS or 2DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:8d6142313971b08f92257e7fb1c1d5689e34ed78){:target="_blank"}     
-  +    [Old 3DS or 2DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:24ad2b85e67013ef1f91178dca7ad2e40663b9b2){:target="_blank"}     
-  +    [Old 3DS or 2DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_o3ds.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:1dc79a2a0babb45497961888f369423a93135e2b){:target="_blank"}
+  +    [Old 3DS or 2DS 9.2.0 - EUR - ctrtransfer](torrents/9.2.0-20E_ctrtransfer_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:8d6142313971b08f92257e7fb1c1d5689e34ed78){:target="_blank"}     
+  +    [Old 3DS or 2DS 9.2.0 - JPN - ctrtransfer](torrents/9.2.0-20J_ctrtransfer_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:24ad2b85e67013ef1f91178dca7ad2e40663b9b2){:target="_blank"}     
+  +    [Old 3DS or 2DS 9.2.0 - USA - ctrtransfer](torrents/9.2.0-20U_ctrtransfer_o3ds.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:1dc79a2a0babb45497961888f369423a93135e2b){:target="_blank"}
 
 #### Instructions
 

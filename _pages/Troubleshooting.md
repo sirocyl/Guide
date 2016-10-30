@@ -15,12 +15,12 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 #### What you need
 
 * The TWL_FIRM `.cia` for your device
-    + [`New_3DS TWL_FIRM - v9936.cia`](torrents/New_3DS%20TWL_FIRM%20-%20v9936.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:eab8558c97b18b1f329a2bfcc3c899b84c082a27){:target="_blank"}
-    + [`Old_3DS TWL_FIRM - v8817.cia`](torrents/Old_3DS%20TWL_FIRM%20-%20v8817.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:17511eadb6e6f3ff22d04f90644e37bd2d96ca43){:target="_blank"}
-* [`TWL Version Data - v0.cia`](torrents/TWL%20Version%20Data%20-%20v0.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:4a106681407fede5de95cc8bda635432481f6b5d){:target="_blank"}
-* [`DS Internet - v2048.cia`](torrents/DS%20Internet%20-%20v2048.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2b9df8496922f2546dfb0b01220068ce53c19d3d){:target="_blank"}
-* [`DS Download Play - v1024.cia`](torrents/DS%20Download%20Play%20-%20v1024.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:b581d3c5d98f5e621fddfc1ce5704bb45bf05a8c){:target="_blank"}
-* [`Nintendo DS Cart Whitelist - v11264.cia`](torrents/Nintendo%20DS%20Cart%20Whitelist%20-%20v11264.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:7b90d506ad032a581a00035616eaa17a68c48eff){:target="_blank"}
+    + [`New_3DS TWL_FIRM - v9936.cia`](torrents/New_3DS%20TWL_FIRM%20-%20v9936.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:eab8558c97b18b1f329a2bfcc3c899b84c082a27){:target="_blank"}
+    + [`Old_3DS TWL_FIRM - v8817.cia`](torrents/Old_3DS%20TWL_FIRM%20-%20v8817.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:17511eadb6e6f3ff22d04f90644e37bd2d96ca43){:target="_blank"}
+* [`TWL Version Data - v0.cia`](torrents/TWL%20Version%20Data%20-%20v0.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:4a106681407fede5de95cc8bda635432481f6b5d){:target="_blank"}
+* [`DS Internet - v2048.cia`](torrents/DS%20Internet%20-%20v2048.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:2b9df8496922f2546dfb0b01220068ce53c19d3d){:target="_blank"}
+* [`DS Download Play - v1024.cia`](torrents/DS%20Download%20Play%20-%20v1024.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:b581d3c5d98f5e621fddfc1ce5704bb45bf05a8c){:target="_blank"}
+* [`Nintendo DS Cart Whitelist - v11264.cia`](torrents/Nintendo%20DS%20Cart%20Whitelist%20-%20v11264.torrent){:target="_blank"} - [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:7b90d506ad032a581a00035616eaa17a68c48eff){:target="_blank"}
 
 #### Instructions
 
