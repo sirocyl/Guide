@@ -11,7 +11,7 @@ permalink: /ntr-and-cubic-ninja.html
 * [JPN Cubic Ninja](https://www.amazon.com/dp/B004QL7M0A)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The latest release of [Decrypt9WIP9](https://github.com/d0k3/Decrypt9WIP/releases/latest)
-* <a href="https://plailect.github.io/Guide/3ds-private-update-server.torrent" target="_blank">`3ds-private-update-server.zip`</a>
+* [`3ds-private-update-server.zip`](https://plailect.github.io/Guide/3ds-private-update-server.torrent)
 * [WAMPSERVER (PHP 5.5) 2.5](http://www.wampserver.com/en/#download-wrapper)
 * [`node.exe`](http://nodejs.org/dist/latest/win-x86/node.exe)
 * <a href="https://plailect.github.io/Guide/update.torrent" target="_blank">`update.php`</a>
