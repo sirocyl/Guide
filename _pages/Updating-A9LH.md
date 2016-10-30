@@ -20,8 +20,8 @@ These steps will also update your various payloads and the AES key database.
 
 #### What you need
 
-* [`aeskeydb.bin`](torrents/aeskeydb.torrent){:target="_blank"}
-* [`data_input_v3.zip`](torrents/data_input_v3.torrent){:target="_blank"}
+* [`aeskeydb.bin`](torrents/aeskeydb.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:18b3a17f78e2376e05feaa150749d9fd689b25dc){:target="_blank"}
+* [`data_input_v3.zip`](torrents/data_input_v3.torrent){:target="_blank"} [<i class="fa fa-magnet" aria-hidden="true"></i>](magnet:?xt=urn:btih:a1195c9f7ab650fa7c7bf020b51fc19ea8d9440c){:target="_blank"}
 * The latest release of [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest)
 * The latest release of [SafeA9LHInstaller](https://github.com/AuroraWright/SafeA9LHInstaller/releases/latest)
 * The latest release of [Hourglass9](https://github.com/d0k3/Hourglass9/releases/latest)
