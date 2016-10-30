@@ -19,10 +19,10 @@ This guide will assume the CFW 3DS is running arm9loaderhax and was setup with t
 {: .notice--info}
 
 {% capture notice-4 %}
-This exploit requires you to [System Transfer](http://en-americas-support.nintendo.com/app/answers/detail/a_id/13996/) from a CFW 3DS to a stock 3DS as part of the steps. System Transfers will work in the following directions *only*:
-  + New 3DS -> New 3DS
-  + Old 3DS or 2DS -> Old 3DS or 2DS
-  + Old 3DS or 2DS -> New 3DS
+This exploit requires you to [System Transfer](http://en-americas-support.nintendo.com/app/answers/detail/a_id/13996/) from a CFW 3DS to a stock 3DS as part of the steps. System Transfers will work in the following directions *only*:    
+  + New 3DS -> New 3DS    
+  + Old 3DS or 2DS -> Old 3DS or 2DS    
+  + Old 3DS or 2DS -> New 3DS    
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-4 | markdownify }}</div>
