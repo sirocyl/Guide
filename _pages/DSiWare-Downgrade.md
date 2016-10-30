@@ -28,6 +28,7 @@ This exploit requires you to [System Transfer](http://en-americas-support.ninten
 <div class="notice--warning">{{ notice-4 | markdownify }}</div>
 
 Both systems MUST be from the same region.
+{: .notice--warning}
 
 3DS #1's NNID will be stuck on 3DS #2 unless you either system transfer back or call Nintendo! (details in the instructions)
 {: .notice--danger}
