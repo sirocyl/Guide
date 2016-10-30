@@ -1,6 +1,6 @@
 ---
 title: "DSiWare Downgrade"
-permalink: /(dsiware-downgrade.html
+permalink: /dsiware-downgrade.html
 ---
 
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare and a second 3DS which has already has a Custom Firmware installed on it in order to dump and restore your NAND.
